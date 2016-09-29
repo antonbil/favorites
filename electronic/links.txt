@@ -1,3 +1,9 @@
 spotify:album:3lgt33iAV9YVd8lDoGozHp,Chicane,,Twenty
 spotify:album:6Xhb46t8f3z8FkuXQAj4UV,Zhu,,Generationwhy
 spotify:album:4XtS3Rdgd5iEOBUZzETMo0,Tristan Perich,Perich,Noise Patterns
+
+spotify:album:0YimIPHMqpfKzXkC7E9qRM,Factory Floor,,25 25,https://i.scdn.co/image/fa53e2d411237b1b27d3f1950fca101df3a6c444
+spotify:album:1BedrXdH4el7fWWIYMC99N,Preoccupations,,Preoccupations,https://i.scdn.co/image/784148fef1e81e096095bb30948285fe6b48eb15
+spotify:album:6Xhb46t8f3z8FkuXQAj4UV,ZHU,,GENERATIONWHY,https://i.scdn.co/image/ce0fc50281a2917296bf1d8146157c1612a957ee
+spotify:album:4XtS3Rdgd5iEOBUZzETMo0,Tristan Perich,,Noise Patterns,https://i.scdn.co/image/8b0af5368972f337a3666a723531ac6589a75559
+spotify:album:3lgt33iAV9YVd8lDoGozHp,Chicane,,Twenty,https://i.scdn.co/image/29080b87931bfcd281ddb8a93a943de58b152b6f

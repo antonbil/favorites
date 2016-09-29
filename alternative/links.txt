@@ -35,3 +35,5 @@ spotify:album:5O1ErvIuqd5REkePSTw20z,Wolf Parade,,EP 4
 
 spotify:album:6a8TyTnFnpvaanbZfR7tEL,Klangstof,,Close Eyes to Exit,https://i.scdn.co/image/28f1c59a0cb373a40dfa45e04749302ba2a669b9
 spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern,https://i.scdn.co/image/63ae7c6a475507b7152403ba9e4fbb40b2eea639
+spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
+spotify:album:34xaLN7rDecGEK5UGIVbeJ,Nick Cave & The Bad Seeds,Cave,Skeleton Tree,https://i.scdn.co/image/ce293cb274c00d58e7f27fbe05040afc1b91b683
