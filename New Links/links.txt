@@ -1,8 +1,3 @@
-spotify:album:3lgt33iAV9YVd8lDoGozHp,Chicane,,Twenty
-spotify:album:6Xhb46t8f3z8FkuXQAj4UV,Zhu,,Generationwhy
-spotify:album:4XtS3Rdgd5iEOBUZzETMo0,Tristan Perich,Perich,Noise Patterns
-
-spotify:album:3lgt33iAV9YVd8lDoGozHp,Chicane,,Twenty
 spotify:album:1ZF7MufHrt6TBfNrtOZmZc,Telemann,,Glueck Is My Future E.P.,https://i.scdn.co/image/90367dd196f3871752b2ce63b18d1c636699b5b7
 spotify:album:5PIpamvH4amBLBdCix1IyG,How To Dress Well,,Care,https://i.scdn.co/image/38b6ea01eb644f8f3f927d75a1c133190909bfae
 spotify:album:5PIpamvH4amBLBdCix1IyG,How To Dress Well,,Care,https://i.scdn.co/image/38b6ea01eb644f8f3f927d75a1c133190909bfae
