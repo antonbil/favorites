@@ -1,7 +1,3 @@
-spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
-spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
-spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
-
 spotify:album:0gtU58GVllHFpZzIgLd5lV,Bastille,,9.Wild World,http://hitparade.ch/cdi/bastille-wild_world_a.jpg
 spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/image/19c4c03fcb436bd498239fe8eea91ee18c09b603
 spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/image/19c4c03fcb436bd498239fe8eea91ee18c09b603

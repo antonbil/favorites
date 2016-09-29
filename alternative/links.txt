@@ -1,7 +1,6 @@
 spotify:album:0Lp952Y2eyNYBJDb2Y8q8B,Adult Jazz,,Earrings Off!
 spotify:album:3zkYn6D7BES929rafJfONa,Band of Horses,,Why Are You OK
 spotify:album:3CH5Y6IJPn5yXsOFjCn4wn,Band Of Skulls,,By Default
-spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern
 spotify:album:54mV0Ypa77HgHik50iMYJ0,Bjork,,Vulnicura (Live)
 spotify:album:7ovy7HEr4QOZMTO1ZYZxrC,Blue October,,Home
 spotify:album:1a3NdLui7ZgCKlHTCW6U4a,The Boxer Rebellion,Boxer,Ocean by Ocean

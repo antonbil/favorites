@@ -1,5 +1,1 @@
-spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
-spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
-spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
-
 spotify:album:76pKA8EfFid33dDdWZMbot,Tangarine,,There and Back,https://i.scdn.co/image/72b3e36d9bd9bbc1cb3745720bfeb83a193fcfa3

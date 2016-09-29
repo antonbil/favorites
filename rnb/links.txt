@@ -12,7 +12,6 @@ spotify:album:15V0sUcl71Tg8WWMqwIKVP,Keith Sweat,Sweat,Dress To Impress
 spotify:album:3H9hqx1OBluUaC2UvCTO8P,Kandace Springs,Springs,Soul Eyes
 spotify:album:3XYLUr92AxVhbSRgHpzLbs,Corinne Bailey Rae,Rae,The Heart Speaks in Whisp...
 spotify:album:3yPVtmnL8JZwYcdTe9Y07O,Mike Posner,Posner,At Night Alone
-
 spotify:album:2hNdpum500dG6mDXs87nbc,Rihanna,,31.Anti,http://hitparade.ch/cdi/rihanna-anti_a.jpg
 spotify:album:7bF8hPoxcvU0svbEBSs665,Jennifer Lopez,Lopez,Dance Again...The Hits,https://i.scdn.co/image/3744ecd8510f93dcaaaffb22a1e390137d1d3234
 spotify:album:3gRu0TcAVDPw289V3g4eRw,JMSN,,It is,https://i.scdn.co/image/43e88b64b6cf9e1aebc995cd9aa6f78a8a88cf42

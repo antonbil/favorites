@@ -1,7 +1,3 @@
-spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
-spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
-spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
-
 spotify:album:063f8Ej8rLVTz9KkjQKEMa,Brian Eno,Eno,Ambient 1/Music For Airports,https://i.scdn.co/image/495356a25822b632e1316c87c0b55165fabc4056
 spotify:album:0h9FxPNX6M1jGb4eCbc7br,Keith Fullerton Whitman,Fullerton,Playthroughs,https://i.scdn.co/image/b88fa9a5a69bcb216b260541fe05f8ae2fe458f4
 spotify:album:5MZRB9G4snRWIG0otfxJYq,Tim Hecker,Hecker,Haunt Me,https://i.scdn.co/image/8c7fa2549a426c0384737e35279e473fe28faab4
