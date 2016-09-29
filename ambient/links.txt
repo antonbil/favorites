@@ -1,0 +1,16 @@
+spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
+spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
+spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
+
+spotify:album:063f8Ej8rLVTz9KkjQKEMa,Brian Eno,Eno,Ambient 1/Music For Airports,https://i.scdn.co/image/495356a25822b632e1316c87c0b55165fabc4056
+spotify:album:0h9FxPNX6M1jGb4eCbc7br,Keith Fullerton Whitman,Fullerton,Playthroughs,https://i.scdn.co/image/b88fa9a5a69bcb216b260541fe05f8ae2fe458f4
+spotify:album:5MZRB9G4snRWIG0otfxJYq,Tim Hecker,Hecker,Haunt Me,https://i.scdn.co/image/8c7fa2549a426c0384737e35279e473fe28faab4
+spotify:album:6W9tObSIIqG6yCNAULcbqT,Slowdive,,Pygmalion,https://i.scdn.co/image/83d2a83f20ade8257ff4fe688f30e7435f78b63e
+spotify:album:7wAP4Bb3vyXR6uV8lXv2VZ,Fennesz,,Venice,https://i.scdn.co/image/7f97c2b651a7668aa4f22bc3651e0d211738ea3d
+spotify:album:77JnRHSaaS8D6JZQ4EIKu8,NEU!,,Neu!,https://i.scdn.co/image/5e28496a21447c75cd220ea80359a1bf205d9775
+spotify:album:27p9vGwETG3OEBfmIvnZ0U,Aphex Twin,,Come To Daddy,https://i.scdn.co/image/fbbbbe1ad9a454625d2c376733e4c758b03f2907
+spotify:album:4gBNK6jIw38aeYHeywCAsL,Celer,,Evaporate and Wonder,https://i.scdn.co/image/c8a65c6c50acaa12874f7156e2195b4c5981eead
+spotify:album:3ZXEJLSFbQ13rhevpc7L0Y,Autechre,,Quaristice,https://i.scdn.co/image/9a8414545f4d148c1c6bc9f7910cddf0381dcde2
+spotify:album:5SSf6lNbSoaAUx6PxQVjlP,Harold Budd,Budd,The Pearl,https://i.scdn.co/image/5980c82fd116c8d0308a236b5f5a78ae32667d95
+spotify:album:7b67MKOwyj7mIcEVnoJSOG,Brian Eno,Eno,Discreet Music,https://i.scdn.co/image/c55ac45951f1a7c5d0d9e70251c64ee1a9882dde
+spotify:album:2hvHI1YepnxxbwVqru5VTZ,John Cage,Cage,In a Landscape: Piano Music of John Cage,https://i.scdn.co/image/7afe0facc97edc87be40cf965c410bda27f03504

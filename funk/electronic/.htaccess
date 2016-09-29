@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [QSA,L]
+
+# ALLOW USER BY IP
+<Limit GET POST>
+ order deny,allow
+ deny from all
+ allow from 192.168.2.
+ allow from 81.207.236.65 #thuis-ip
+ allow from 145.19. #school-ip
+</Limit>
+# PREVENT VIEWING OF .HTACCESS
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+
+

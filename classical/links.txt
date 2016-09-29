@@ -1,0 +1,5 @@
+spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
+spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
+spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
+
+spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern,https://i.scdn.co/image/63ae7c6a475507b7152403ba9e4fbb40b2eea639

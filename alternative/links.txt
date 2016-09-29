@@ -1,0 +1,38 @@
+spotify:album:0Lp952Y2eyNYBJDb2Y8q8B,Adult Jazz,,Earrings Off!
+spotify:album:3zkYn6D7BES929rafJfONa,Band of Horses,,Why Are You OK
+spotify:album:3CH5Y6IJPn5yXsOFjCn4wn,Band Of Skulls,,By Default
+spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern
+spotify:album:54mV0Ypa77HgHik50iMYJ0,Bjork,,Vulnicura (Live)
+spotify:album:7ovy7HEr4QOZMTO1ZYZxrC,Blue October,,Home
+spotify:album:1a3NdLui7ZgCKlHTCW6U4a,The Boxer Rebellion,Boxer,Ocean by Ocean
+spotify:album:3r9t7McmFb3rmU4P7bp94f,Broods,,Conscious
+spotify:album:0czBomMxaMCzanUaFhESOW,Car Seat Headrest,,Teens of Denial
+spotify:album:0U5U4AU94YjYY2QoOpmwfN,case/lang/veirs,,case/lang/veirs
+spotify:album:6wKBVRWMDpMmz9nYQzq3Za,Cat's Eyes,,Treasure House
+spotify:album:5QSSu7wLCV35QHLUxJVrmQ,Caveman,,Otero War
+spotify:album:4Dd6Bmssrfe3UqdCSAiNvI,Chevelle,,The North Corridor
+spotify:album:3tepMmhxS4GyvLA9tiRKlo,Biffy Clyro,Clyro,Ellipsis
+spotify:album:2A0JfZETV7wvSzfHuBZXwT,M Craft,Craft,Blood Moon
+spotify:album:62SHuVeduDK3ZjZrA5Zau4,Death In Vegas,,Transmission
+spotify:album:3gtiMZp1HVQsP4kOYyUrZY,Johnny Foreigner,Foreigner,Mono No Aware
+spotify:album:5I5UvR4vszvLlVZcHuvqAQ,Garbage,,Strange Little Birds
+spotify:album:3YoVKwAtww8cENvhL2IepF,Good Charlotte,,Youth Authority
+spotify:album:2fQ4DpdPn7KGLokPbOoWJC,Mick Harvey,Harvey,Delirium Tremens
+spotify:album:05VhfY7ivpNOILvASYOtTa,Beaty Heart,Heart,Till the Tomb
+spotify:album:4TMPUg6ihly3CXKCSWhSSg,Hot Hot Heat,,Hot Hot Heat
+spotify:album:1X95ORlJq2cMyMzb6WAX5z,Kid Canaveral,,Faulty Inner Dialogue
+spotify:album:7c0qc4Gv3MI1Ope0sF7d0a,Daniel Lanois,Lanois,Goodbye To Language
+spotify:album:6d56XYMWNXo30Q2YCuUJWr,Mother Feather,,Mother Feather
+spotify:album:0bJfmxIm5Ttp7b06ImIVpz,Beth Orton,Orton,Kidsticks
+spotify:album:2kbpNDt8GhFNL8fpC7CShs,Peter Bjorn and John,,Breakin' Point
+spotify:album:30Y6WmHY2DW5navUdHmObK,Rooney,,Washed Away
+spotify:album:4h7NRdxlDtkLPlQssE6O10,Slow Dakota,,The Ascension of Slow Dak...
+spotify:album:2kqjqQneZx935suPAhokuj,Billy Talent,Talent,Afraid of Heights (Deluxe...
+spotify:album:0vhI2DpXYRfWKe2o5lsbMp,The Temper Trap,Temper,Thick As Thieves
+spotify:album:7n8zDZnmmoo7OZv3OkdR7u,The Tragically Hip,Tragically,Man Machine Poem
+spotify:album:5V8EDmYhUJLNkq7g74NtIL,Train,,Does Led Zeppelin II
+spotify:album:2s037WsNDbSTIEb7OJjT0a,Wilco,,Schmilco
+spotify:album:5O1ErvIuqd5REkePSTw20z,Wolf Parade,,EP 4
+
+spotify:album:6a8TyTnFnpvaanbZfR7tEL,Klangstof,,Close Eyes to Exit,https://i.scdn.co/image/28f1c59a0cb373a40dfa45e04749302ba2a669b9
+spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern,https://i.scdn.co/image/63ae7c6a475507b7152403ba9e4fbb40b2eea639
