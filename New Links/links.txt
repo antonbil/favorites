@@ -9,3 +9,4 @@ spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble
 spotify:album:1s2rYCqmaXpXaFpm8rhaDL,Courtney Barnett,,Sometimes I Sit And Think, And Sometimes I Just Sit,https://i.scdn.co/image/dec98bbd42bc126684f4b47e740dd2911b2ff832
 spotify:album:7buEcyw6fJF3WPgr06BomH,Father John Misty,,I Love You, Honeybear,https://i.scdn.co/image/a4f06df0cc0aa6c7b5a9c1ba0414852d4b37aae2
 spotify:album:74QTwjBLo1eLqpjL320rXX,nosearch,,Meliora,https://i.scdn.co/image/e1aed29c5645bc6704da0ac33e2a1f1a2172c2f2
+spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,,22, A Million,https://i.scdn.co/image/3a3fc1256e0b30ebedd13dee5d3071744163cd63
