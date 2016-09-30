@@ -1,10 +1,4 @@
-<html>
- <head>
-  <title>PHP Test</title>
- </head>
- <body>
  <?php 
-include '../../bin/index.php';
+ $path = $_SERVER['DOCUMENT_ROOT'];
+include $path.'/spotify/bin/index.php';
 ?>
- </body>
-</html>
