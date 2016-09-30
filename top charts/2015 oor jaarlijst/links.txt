@@ -1,7 +1,7 @@
 spotify:album:7qiwZFEiJ0Pxkl1YyBxVeV,Tame Impala,03,Currents,https://i.scdn.co/image/11d45f8ffe3ccde167579d2ff0415387b76c4216
 spotify:album:5MQPCHqfFR9wweKrLJyaSM,Sufjan Stevens,01,Carrie & Lowell,https://i.scdn.co/image/70aa58ae17b7155623249b0b1eebefee5cf27604
 spotify:album:5uP9oyMK5lpzbB7K6UeT3X,Kendrick Lamar,02,To Pimp A Butterfly,https://i.scdn.co/image/802c15119230fa479aa0b8573931841dd04bf9c7
-spotify:album:2pFm6OmHk5evsIRkcGpohw,Courtney Barnett,04,Sometimes I Sit and Think, And Sometimes I Just Sit,https://i.scdn.co/image/dec98bbd42bc126684f4b47e740dd2911b2ff832
+spotify:album:2pFm6OmHk5evsIRkcGpohw,Courtney Barnett,04,Sometimes I Sit and Think And Sometimes I Just Sit,https://i.scdn.co/image/dec98bbd42bc126684f4b47e740dd2911b2ff832
 spotify:album:7buEcyw6fJF3WPgr06BomH,Father John Misty,05,I Love You Honeybear,https://i.scdn.co/image/a4f06df0cc0aa6c7b5a9c1ba0414852d4b37aae2
 spotify:album:0AVPusXNzK1jWwefBiPJ5I,Jamie xx,06,In Colour,https://i.scdn.co/image/a7830294681bce03d5d1033b4a98c38bc9dcaedc
 spotify:album:587Clxxo1i5flgjvS52bEC,Unknown Mortal Orchestra,07,Multi,https://i.scdn.co/image/879df86e1d1c7652be108979817c5ec60025cf07
