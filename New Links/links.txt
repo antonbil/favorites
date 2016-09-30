@@ -5,3 +5,7 @@ spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/imag
 spotify:album:3KdpDb5c1hNkayv6KeF54a,Argent,,Nexus,https://i.scdn.co/image/0b1395127cb574e15c5100c269369ea25c69dece
 spotify:album:1KgiVPDV0v0pn1MslihNHB,BadBadNotGood,,IV,https://i.scdn.co/image/de9b49c6f6097171d9bbf541a7bb87ddb5934756
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
+
+spotify:album:1s2rYCqmaXpXaFpm8rhaDL,Courtney Barnett,,Sometimes I Sit And Think, And Sometimes I Just Sit,https://i.scdn.co/image/dec98bbd42bc126684f4b47e740dd2911b2ff832
+spotify:album:7buEcyw6fJF3WPgr06BomH,Father John Misty,,I Love You, Honeybear,https://i.scdn.co/image/a4f06df0cc0aa6c7b5a9c1ba0414852d4b37aae2
+spotify:album:74QTwjBLo1eLqpjL320rXX,nosearch,,Meliora,https://i.scdn.co/image/e1aed29c5645bc6704da0ac33e2a1f1a2172c2f2
