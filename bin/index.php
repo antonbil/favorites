@@ -4,6 +4,7 @@
  </head>
  <body>
   </body>
+ <?php 
 
 function cmp($a, $b)
 {
