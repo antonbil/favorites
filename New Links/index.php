@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
-include '../bin/index.php';
+include '/spotify/bin/index.php';
 ?>
  </body>
 </html>
