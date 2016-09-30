@@ -1,4 +1,9 @@
- <?php 
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+  </body>
 
 function cmp($a, $b)
 {
@@ -29,3 +34,5 @@ foreach ($lines as $line_num => $line) {
     . $artist . "</div> <div class=\"album\">" . $album . "</div><img src=\"".$imageurl."\"></div><br />\n";
 }
 ?>
+</html>
+ <?php 
