@@ -1,10 +1,4 @@
-<html>
- <head>
-  <title>Add link</title>
- </head>
- <body>
  <?php
-include '../bin/addlink.php';
+ $path = $_SERVER['DOCUMENT_ROOT'];
+include $path.'/spotify/bin/addlink.php';
 ?>
- </body>
-</html>
