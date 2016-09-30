@@ -4,7 +4,8 @@
  </head>
  <body>
  <?php 
-include '/spotify/bin/index.php';
+ $path = $_SERVER['DOCUMENT_ROOT'];
+include $path.'/spotify/bin/index.php';
 ?>
  </body>
 </html>
