@@ -2,7 +2,7 @@ spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Mu
 spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
 spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
 
-spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin' Pools, Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
+spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin Pools Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
 spotify:album:0DRzGMRM012TpkZYfJqyhm,The Devil Makes Three,Devil,Redemption & Ruin,http://www.spotifynewmusic.com/covers/14317.jpg
 spotify:album:0L29DnqfhGMnX6UptHQZRz,Amanda Shires,Shires,My Piece of Land,http://www.spotifynewmusic.com/covers/14306.jpg
 spotify:album:4R2s4yGFFJ3l6nUD47EbK3,The Handsome Family,Handsome,Unseen,http://www.spotifynewmusic.com/covers/14290.jpg
