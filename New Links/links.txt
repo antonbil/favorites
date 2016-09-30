@@ -5,23 +5,3 @@ spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/imag
 spotify:album:3KdpDb5c1hNkayv6KeF54a,Argent,,Nexus,https://i.scdn.co/image/0b1395127cb574e15c5100c269369ea25c69dece
 spotify:album:1KgiVPDV0v0pn1MslihNHB,BadBadNotGood,,IV,https://i.scdn.co/image/de9b49c6f6097171d9bbf541a7bb87ddb5934756
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
-spotify:album:7qiwZFEiJ0Pxkl1YyBxVeV,Tame Impala,03,Currents,https://i.scdn.co/image/11d45f8ffe3ccde167579d2ff0415387b76c4216
-spotify:album:5MQPCHqfFR9wweKrLJyaSM,Sufjan Stevens,01,Carrie & Lowell,https://i.scdn.co/image/70aa58ae17b7155623249b0b1eebefee5cf27604
-spotify:album:5uP9oyMK5lpzbB7K6UeT3X,Kendrick Lamar,02,To Pimp A Butterfly,https://i.scdn.co/image/802c15119230fa479aa0b8573931841dd04bf9c7
-spotify:album:2pFm6OmHk5evsIRkcGpohw,Courtney Barnett,04,Sometimes I Sit and Think, And Sometimes I Just Sit,https://i.scdn.co/image/7d3135334ee45f41f23bb7329c1e13c047b25c38
-spotify:album:7buEcyw6fJF3WPgr06BomH,Father John Misty,05,I Love You, Honeybear,https://i.scdn.co/image/a4f06df0cc0aa6c7b5a9c1ba0414852d4b37aae2
-spotify:album:0AVPusXNzK1jWwefBiPJ5I,Jamie xx,06,In Colour,https://i.scdn.co/image/a7830294681bce03d5d1033b4a98c38bc9dcaedc
-spotify:album:587Clxxo1i5flgjvS52bEC,Unknown Mortal Orchestra,07,Multi,https://i.scdn.co/image/879df86e1d1c7652be108979817c5ec60025cf07
-spotify:album:1jTw1oalZ4vF8jmpmILCdh,Kamasi Washington,08,The Epic,https://i.scdn.co/image/473ff2b025832df6a7d0360136cfc8f751b330db
-spotify:album:2uRTsStAmo7Z2UwCIvuwMv,Kurt Vile,09,b'lieve i'm goin down...,https://i.scdn.co/image/c36c180e1f533ef50c42f570cb4efc691b8493b9
-spotify:album:2IVZPDXb7LFbyukqaoWpYR,Alabama Shakes,10,Sound & Color,https://i.scdn.co/image/c09217de8fe1e0001f5dfb3714403e23ee8e64db
-spotify:album:11S6LfcCeYIFIoixmXvmwy,Julia Holter,11,Have You In My Wilderness,https://i.scdn.co/image/a1a2436d3770258104415d3f92f03e236cfd6b91
-spotify:album:4Csoz10NhNJOrCTUoPBdUD,Vince Staples,12,Summertime '06,https://i.scdn.co/image/17576d8352989483a3067003e929ca400a74d3e6
-spotify:album:48OZC1J8KyLbcnTcbwBU8o,Joanna Newsom,13,Divers,https://i.scdn.co/image/7bea146567a8636cead17d1f2c5d011fe6e22034
-spotify:album:0nSzBICzQHea8grwfqa5Gb,Blur,14,The Magic Whip,https://i.scdn.co/image/83c4f90ba6a0fcff09f5b8abb1c9120adec26321
-spotify:album:3HELUMHz9zL4T3BnwrXiR1,Hunee,15,Hunch Music,https://i.scdn.co/image/7365d8dc0546efe2793c300b4f6eb579bb91c24e
-spotify:album:1W2B8qW1EDywGkYE6UYDKB,Destroyer,16,Poison Season,https://i.scdn.co/image/1f434576236254148bb6284c9dd4ee20b6e48f0d
-spotify:album:5ssjBRWfASNO0OeFNqXcf5,FFS,17,FFS,https://i.scdn.co/image/98ee500b1caf9a754dd45dfa97907223138cdbcc
-spotify:album:7AFoFcBI2cBsrBFGlCd4fg,Preoccupations,18,Viet Cong,https://i.scdn.co/image/6f8b9c9127d2e720863a6ee97cb8a14caccb235b
-spotify:album:0zLfcHOQC7MIOcvOqWGm3m,Björk,19,Vulnicura,https://i.scdn.co/image/ee58ee4469012b20663fd0a7d925508aacac09c7
-spotify:album:74QTwjBLo1eLqpjL320rXX,Ghost,20,Meliora,https://i.scdn.co/image/e1aed29c5645bc6704da0ac33e2a1f1a2172c2f2
