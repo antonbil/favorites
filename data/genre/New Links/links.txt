@@ -7,16 +7,3 @@ spotify:album:1KgiVPDV0v0pn1MslihNHB,BadBadNotGood,,IV,https://i.scdn.co/image/d
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
 spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22 A Million,https://i.scdn.co/image/3a3fc1256e0b30ebedd13dee5d3071744163cd63
 
-spotify:album:50idJkY6FhqUesGnGHn7wB,Real Estate,11,Atlas,https://i.scdn.co/image/6701b923c78c41b12e79e5695d379b29ddf82c3b
-spotify:album:29luvT98TnqHjVDYSRbbrj,Flying Lotus,12,You're Dead!,https://i.scdn.co/image/bfbb7a10f89d7b68e74b631f4db5a60e68ad3fef
-spotify:album:0bfdoENsRuAz86QNfSaMOx,Avi Buffalo,13,At Best Cuckold,https://i.scdn.co/image/8ea96f907658e4c8bc39be5fcccbf9ade671d2e6
-spotify:album:2PbvQ5ALJj6uXgz5X3ghro,St. Vincent,14,St. Vincent,https://i.scdn.co/image/fce979c9c3892ff72fd689a3c2a3fa4bcc8d492f
-spotify:album:5VqGGKeWpIBRFh4M4XmqDK,Fka twins,15,LP1,https://i.scdn.co/image/7a3bd3fd40c7b5f90eaa1c80659cedf2134c0bf9
-spotify:album:1cMYjuN71NCON0vlQyTgJM,Acid,16,Liminal,https://i.scdn.co/image/33e316738b8c09817b19a0f175ef7e9b27d1c28c
-spotify:album:36LXzRarDP8TU8K0REGpt6,Jack White,17,Lazaretto,https://i.scdn.co/image/adec92b041cfc991def55c3caf81442e2939c934
-spotify:album:6NsNACEogG7S79PXABAdPN,Moss,18,We Both Know the Rest Is Noise,https://i.scdn.co/image/6846ba987aedad269a73dd768300b9ee36fd7af6
-spotify:album:0SUnw24DP3YwhbIqYv0XAf,Sun Kil Moon,19,Benji,https://i.scdn.co/image/791d1b11e4b1cb9f6ccd55cc62f7737725d3e3af
-spotify:album:1dKh4z5Aayt8FFDWjO5FDh,Future Islands,20,Singles,https://i.scdn.co/image/166d6c384231563865ae733ef162d493a1775b89
-spotify:album:6oRuinkJdTge4hpTuClEF8,Aphex Twin,21,Syro,https://i.scdn.co/image/8b16cee8c4d579aacf217ccc5dbe8156b1989dc7
-spotify:album:112v1gUdm5JBkySoM5U620,Caribou,22,Our Love,https://i.scdn.co/image/a941dbcde656d59d60fda283497ec22a5e07d60a
-spotify:album:2shyjsWrlKEwRCMXt7yRA7,Kik,23,2,https://i.scdn.co/image/fe0d55c3a644aab1b0515188dd6c62dc12bc4d2c
