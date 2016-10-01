@@ -1,0 +1,18 @@
+spotify:album:7DGzeERtReCHCG0k9mABXv,Nick Cave & The Bad Seeds,01,Push the Sky Away,https://i.scdn.co/image/b4602813a3c682c0c4e158f38c150fee9e05bc3a
+spotify:album:3Y2bjF2Jwocc0USbu08Y2I,Arcade Fire,02,Reflektor,https://i.scdn.co/image/bec3b808a2e4b0ea4700d3a7e6a68681e1cdafb8
+spotify:album:6645HGh7ZOZSUTpqW9iYLR,Arctic Monkeys,03,AM,https://i.scdn.co/image/8f10ce83d93c11d4db4f7fc15e2c86d768223001
+spotify:album:0XTAmejG8F97wF5MWoVbaY,Kanye West,04,Yeezus,https://i.scdn.co/image/3d003b7bb9e93a101d412f475fe2d1e7df62b3c7
+spotify:album:4m2880jivSbbyEGAKfITCa,Daft Punk,05,Random Access Memories,https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4
+spotify:album:4xGFLO5gvhNRHodroFsOfm,Jacco Gardner,06,Cabinet of Curiosities,https://i.scdn.co/image/ba9fc57d5bb4e383f18b40f5e7e84c449030b978
+spotify:album:1aYXn1WnQWLTmOpQtKVeYJ,Parquet Courts,08,Light Up Gold,https://i.scdn.co/image/f5a5c4ab679fabedaa124aab941b2c5a843eb3ac
+spotify:album:2imxOfDIDk2voAYCZP88u2,Kurt Vile,09,Wakin On A Pretty Daze,https://i.scdn.co/image/716dd2620539069811f0f75ff25a0ef0fdea96dc
+spotify:album:2JhR4tjuc3MIKa8v2JaKze,National,10,Trouble Will Find Me,https://i.scdn.co/image/f76c15133710b5ef4ccf37039c57382ced66c262
+spotify:album:1ZFGRj11NnZHos8DUbbpF1,Disclosure,11,Settle,https://i.scdn.co/image/9bd383fc52c2a2da7bedbcce8e3b78f87e959489
+spotify:album:2Qi2SySN2ePZwMLDSv9Krn,Vampire Weekend,12,Modern Vampires of the City,https://i.scdn.co/image/84883a8fc5dc7f4019838562a5e258019c661300
+spotify:album:41C5iULlHU9sMYiekI75Pn,Unknown Mortal Orchestra,13,II,https://i.scdn.co/image/e92c2e3cda274fec16a99e277ea32e617fe4125a
+spotify:album:6ljTPjGb8hwaRT6HPJYbfb,James Holden,14,The Inheritors,https://i.scdn.co/image/4c8f98aec55989d1eeb8aaa9a2834c1b8bde6bf8
+spotify:album:3WFNF1Hp0UBPswcawDHpUS,Moderat,15,II,https://i.scdn.co/image/8425ccb782915a50a65bff80568e01ec9f52f906
+spotify:album:0PZ13vrab3uBrITlFlgsiL,Franz Ferdinand,16,Right Thoughts  Right Words  Right Action,https://i.scdn.co/image/cd1e28cbd81805893eba22e7b2d0c935158ebf41
+spotify:album:35He6RuwS8C2KjG067Gobl,Laura Marling,17,Once I Was An Eagle,https://i.scdn.co/image/6489da12ab168bcbac08d9d5c246fe5eadd1c75f
+spotify:album:2spxrQq50aGqf9Barvc8fg,Mikal Cronin,18,MCII,https://i.scdn.co/image/f7c1bb49f61524fc2bdbe066d8adbb3f0f915ba2
+spotify:album:159ORixBSSemxiualv1Woj,Boards of Canada,20,Tomorrow's Harvest,https://i.scdn.co/image/9051648431a1b90c5b9a1e0c1e3d67079c57dc3b
