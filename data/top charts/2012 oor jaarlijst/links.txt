@@ -1,0 +1,30 @@
+spotify:album:6k3vC8nep1BfqAIJ81L6OL,alt,01,J,https://i.scdn.co/image/a1dac609d1b8b3a6e415fffcdb53dc6d85393254
+spotify:album:3cO5UOcJuIwo8tSCsBUPDJ,Frank Ocean,02,channel ORANGE,https://i.scdn.co/image/69c35ae0a3647b0df47fccd87f62271b74d99b04
+spotify:album:2rtoukh5lxIrYBtcvOJz6Z,Cloud Nothings,03,Attack on Memory,https://i.scdn.co/image/90fbf6657838991e7a438add560e4fac80bd68a8
+spotify:album:6eSJ0lu0uwtiqXkP7Qrrno,Jack White,04,Blunderbuss,https://i.scdn.co/image/ff708191abbd76be57aab49080a2870a27d162df
+spotify:album:2cRMVS71c49Pf5SnIlJX3U,xx,05,Coexist,https://i.scdn.co/image/5f014ce1510763727315cf01b2c829612e45f5bb
+spotify:album:3pqPOPqLgIwLaE4ZuVhYlg,Django Django,06,Django Django,https://i.scdn.co/image/c562d61579557d5b49b8b4b59d773d1e3a0418aa
+spotify:album:76vY9yohh4kVwSKkyKbyEQ,Tame Impala,07,Lonerism,https://i.scdn.co/image/9bfbbd99eb1d9ee416cdaa5eb6af590aa89630d7
+spotify:album:6EoJL3ty0FyE7XmLpAX2sj,Alabama Shakes,08,Boys & Girls,https://i.scdn.co/image/8608917000ee2db96a1c905e6167cb180ab8fabf
+spotify:album:0TzMVAiOsVJLgbS8oknGoh,Blaudzun,09,Heavy Flowers,https://i.scdn.co/image/3dc8c2d9d1542f96c71b47e9eb3a14772363b516
+spotify:album:57LAEzKL94ZHwbIkUWYCDY,Grizzly Bear,10,Shields,https://i.scdn.co/image/3eafb32f5d47855465b5350c6d42e5815bc85f2f
+spotify:album:5D6PdcR7qTaH6iu6WZlTOP,Metz,11,METZ,https://i.scdn.co/image/583cc45f282b769822f140ea097868d19eac384a
+spotify:album:5ECUvxKHuTeoJ6WDuVtTKL,Moss,12,Ornaments,https://i.scdn.co/image/3611517a2d95d383fe676e152cc5aa19c2f719c4
+spotify:album:6hhZO1fT3GcTlajiVD7vLg,Chromatics,13,Kill For Love,https://i.scdn.co/image/35f098ea1873a860edb647e1032293b711270b75
+spotify:album:4asvshPH5nL0mjjMCE9mzi,Jake Bugg,14,Jake Bugg,https://i.scdn.co/image/7ad24557c630f1db49e5366d2451901a3f12cd93
+spotify:album:68pikiNcGlWj3XFirs5O2R,Beach House,15,Bloom,https://i.scdn.co/image/b1878023a8d25ebee4199ab45d85937168838387
+spotify:album:6Z3MfMebUucj95zrHMrbyV,First Aid Kit,16,The Lion's Roar,https://i.scdn.co/image/1a576cd2d69b75870b65b3e6049a50269b65ead3
+spotify:album:79VDAdjzMMGoftIbw5feYN,Michael Kiwanuka,18,Home Again,https://i.scdn.co/image/a308c54f1cb6365384af6a990dd90eb94a7712b9
+spotify:album:1R6RnfQpSBtMxuBwwjGxzR,Vaccines,19,Come Of Age,https://i.scdn.co/image/7c4ff921111162bcc0199656f3793c8d2393c56e
+spotify:album:0Oq3mWfexhsjUh0aNNBB5u,Kendrick Lamar,20,good kid  m.A.A.d city,https://i.scdn.co/image/90f78ee300baaf9b54a84816c4266e78b99b95b5
+spotify:album:2HhSjSa5X3TQSIkS4CpFyu,Dr. John,21,Locked Down,https://i.scdn.co/image/dd06ff6ac9f07170ed15227a095e30a636dbbd74
+spotify:album:3XgVl7O0ddImgVBtlEPdDw,Allah-las,22,Allah-Las,https://i.scdn.co/image/3a0fab4b3de9fe74e04ebb3ad882893019c91816
+spotify:album:08oLKFGzOU56F72rh3qssl,Case Mayfield,23,The Many Colored Beast,https://i.scdn.co/image/1b13e29c7d118c0d30440fed19c355313af5773c
+spotify:album:6cl6u3OMuyObk20qBb1jbx,Swans,24,The Seer,https://i.scdn.co/image/a962a7ba797eca7d2e86ab73641fb716d6f9d66b
+spotify:album:2JTU8HtBc9nEt0PaZzbSMx,Wild Nothing,25,Nocturne,https://i.scdn.co/image/5a35bb759d2654944f615c9ddbb86d9af46b22e8
+spotify:album:1kl5vXLLEUzfw5njcaCXw5,Bill Fay,26,Life Is People,https://i.scdn.co/image/da707a93ef54d8b48419e18292cabd709eab034e
+spotify:album:0waLDJlCfXkXIwFGdBZ6UK,Leonard Cohen,27,Old Ideas,https://i.scdn.co/image/157608e6f85f23b1b3702c2f3bf2b9f3d3422df9
+spotify:album:1PQDjdBpHPikAodJqjzm6a,Death Grips,28,The Money Store,https://i.scdn.co/image/9f6b1c90f96801bd7f8fa04c44c5a8b886efc85d
+spotify:album:0SvgSZT9yW6ocN88GtZwVG,Mark Lanegan,29,Blues Funeral,https://i.scdn.co/image/68c51c9b51d0f1c8867617464013055e12eaa336
+spotify:album:3LnS0XKSzd2TFoagESGUw3,Bob Dylan,30,Tempest,https://i.scdn.co/image/eeb7dc266b12e6016763e11915806aa4f369adab
+spotify:album:2f2NEtvt132ETAdS7Xqudk,Anathema,31,Weather Systems,https://i.scdn.co/image/5ce09b7fca2c0415556e8b13a0cd5b8796719d62
