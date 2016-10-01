@@ -6,3 +6,5 @@ spotify:album:3KdpDb5c1hNkayv6KeF54a,Argent,,Nexus,https://i.scdn.co/image/0b139
 spotify:album:1KgiVPDV0v0pn1MslihNHB,BadBadNotGood,,IV,https://i.scdn.co/image/de9b49c6f6097171d9bbf541a7bb87ddb5934756
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
 spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22 A Million,https://i.scdn.co/image/3a3fc1256e0b30ebedd13dee5d3071744163cd63
+
+spotify:album:6i1BbUp2bTavuxlxC59tzS,Omni,,Deluxe,http://www.spotifynewmusic.com/covers/13953.jpg

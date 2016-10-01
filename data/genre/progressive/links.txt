@@ -12,3 +12,4 @@ spotify:album:7kkupNoMau7Plt2iYuz5lE,The Pineapple Thief,Pineapple,Your Wilderne
 spotify:album:4zKSMYpAgpp70sKjs36AZw,Thank You Scientist,,Stranger Heads Prevail,http://www.spotifynewmusic.com/covers/14078.jpg
 spotify:album:6PEE3b9ji7dLmAYn5nfH2F,Karmakanic,,DOT,http://www.spotifynewmusic.com/covers/14040.jpg
 spotify:album:6i1BbUp2bTavuxlxC59tzS,Omni,,Deluxe,http://www.spotifynewmusic.com/covers/13953.jpg
+spotify:album:68rrZ8uyc7VzZC4GWj3Wki,Kansas,,The Prelude Implicit,https://i.scdn.co/image/2d682ac366332cde61f786f559d70bfe70c293fa
