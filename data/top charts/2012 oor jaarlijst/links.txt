@@ -1,4 +1,4 @@
-spotify:album:6k3vC8nep1BfqAIJ81L6OL,alt-j,01,Alt-J,https://i.scdn.co/image/a1dac609d1b8b3a6e415fffcdb53dc6d85393254
+spotify:album:6k3vC8nep1BfqAIJ81L6OL,Alt-J,01,Alt-J,https://i.scdn.co/image/a1dac609d1b8b3a6e415fffcdb53dc6d85393254
 spotify:album:3cO5UOcJuIwo8tSCsBUPDJ,Frank Ocean,02,channel ORANGE,https://i.scdn.co/image/69c35ae0a3647b0df47fccd87f62271b74d99b04
 spotify:album:2rtoukh5lxIrYBtcvOJz6Z,Cloud Nothings,03,Attack on Memory,https://i.scdn.co/image/90fbf6657838991e7a438add560e4fac80bd68a8
 spotify:album:6eSJ0lu0uwtiqXkP7Qrrno,Jack White,04,Blunderbuss,https://i.scdn.co/image/ff708191abbd76be57aab49080a2870a27d162df
