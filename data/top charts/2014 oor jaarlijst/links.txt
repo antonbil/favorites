@@ -1,0 +1,11 @@
+spotify:album:6i1BbUp2bTavuxlxC59tzS,Omni,,Deluxe,http://www.spotifynewmusic.com/covers/13953.jpg
+spotify:album:7ogAbzopd3XkOj3gdStnSi,War On Drugs,01,Lost in the Dream,https://i.scdn.co/image/bb2baeb4e627df0aeff6e863ff713693803fc57d
+spotify:album:6x3WePZuqffkg2f34n0xF6,Typhoon,02,Lobi Da Basi,https://i.scdn.co/image/b9e5579527f18e0fc08a78891b2db4a1aeab7fb2
+spotify:album:55TZx6GWm1hlEbRgkGRjma,Spoon,03,They Want My Soul,https://i.scdn.co/image/73aea6933ca08cdbc1d389a2e2c676027fe67e71
+spotify:album:6LUnMn3kBBRbCBPyieDRw6,Temples,04,Sun Structures,https://i.scdn.co/image/96ca7136bbc6b767fdc633235e017541e67eddf5
+spotify:album:157OVOCioIzeqV4MeqEqzj,Damien Rice,05,My Favourite Faded Fantasy,https://i.scdn.co/image/21f4475f8aacccc6d441f95b780f7cc50dbb0e04
+spotify:album:1Nt5SpidxOjgIpTrhrfwAF,Swans,06,To Be Kind,https://i.scdn.co/image/4b97dc5e0d25de53e64e4dd17c77e161751111f7
+spotify:album:61sGO58ljdDgD4Mn6Bcj3P,Moodymann,07,Moodymann,https://i.scdn.co/image/f361ecca600ed2ad80fe3d8c676ebf8b9a84d08c
+spotify:album:4t37vINmZeavqvHRmuSK5o,Beck,08,Morning Phase,https://i.scdn.co/image/47b5f7a0183e27a40679e7df46a38e0b41e54a53
+spotify:album:4oktVvRuO1In9B7Hz0xm0a,Altj,09,This Is All Yours,https://i.scdn.co/image/c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4
+spotify:album:5SzhltQSSi1HUMi5cveZIZ,Damon Albarn,10,Everyday Robots,https://i.scdn.co/image/833d2b45ee407be24de4ec72edda2a81c7a081ae
