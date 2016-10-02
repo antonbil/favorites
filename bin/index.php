@@ -61,6 +61,7 @@ if(isset($_GET['delete']))
 
         }
         file_put_contents('links.txt', $file);
+        echo '</p><a href="index.php">See result of deletion</a><br/>';
   }
   echo '    </p>
     </form>
