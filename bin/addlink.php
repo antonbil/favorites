@@ -23,7 +23,7 @@ if (strlen ($url)==0){echo '
  </label>
  </p>
  </form>
-'
+';
 } else {
     if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
     $myurl=str_replace ( "spotify:album:","",$url);
