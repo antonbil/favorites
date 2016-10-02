@@ -22,6 +22,8 @@ echo '<a href="addlink.php">Add album to list</a><br/>';
 $str = file_get_contents('links.txt');
 $lines=explode("\n", $str);
 usort($lines, "cmp");
+    echo '
+    <form id="form1" name="form1" method="get" action="index.php">';
 foreach ($lines as $line_num => $line) {
     $words=explode(",",$line);
     $id=$words[0];
@@ -30,10 +32,26 @@ foreach ($lines as $line_num => $line) {
     $album=$words[3];
     $imageurl="";
     if (count($words)>4)$imageurl=$words[4]; 
+    echo '<input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'">';
 
     echo "<div class=\"spotifyalbum\">Album #<b>{$line_num}</b> : <div class=\"url\">" . $id . "</div> <div class=\"artist\">" 
     . $artist . "</div> <div class=\"album\">" . $album . "</div><img src=\"".$imageurl."\"></div><br />\n";
+
 }
-?>
+    echo '</p><input type="submit" name="delete" value="delete"/>';
+if(isset($_GET['delete']))
+{
+ $cnt=array();
+ $cnt=count($_GET['checkbox']);
+ for($i=0;$i<$cnt;$i++)
+  {
+     $del_id=$_GET['checkbox'][$i];
+     $query="remove where Id=".$del_id;
+     echo $query.'<br/>';
+  }}
+  echo '    </p>
+    </form>
+';
+  ?>
 </html>
  <?php 
