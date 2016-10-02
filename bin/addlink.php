@@ -14,12 +14,13 @@ if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
   echo "Address: $spotifyUri<br/>";
   $response = json_decode($response);
   $name=$response->artists[0]->name;
-  var_dump($response->artists);
-  echo "Name: $name<br/>";
-  $test=$response->artists;
-  echo "<pre>" . print_r($test,1) . "</pre>";
-  echo "<pre>" . print_r($response,1) . "</pre>";
-  var_dump($response);
+  $album=$response->name;
+  $nr=0;
+  if (count($response->images)>1)$nr=1;
+  $pictureurl=$response->images[$nr]->url;
+  $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
+  echo $out."<br/>";
+  //file_put_contents('links.txt', $out, FILE_APPEND);
 } else {
   $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
   file_put_contents('links.txt', $out, FILE_APPEND);
