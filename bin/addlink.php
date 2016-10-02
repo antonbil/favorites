@@ -13,7 +13,7 @@ if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
   $response = file_get_contents($spotifyUri);
   echo "Address: $spotifyUri<br/>";
   $response = json_decode($response);
-  $name=$reponse->artists[0]->name;
+  $name=$reponse['artists'][0]['name'];
   echo "Name: $name<br/>";
   echo "<pre>" . print_r($reponse->artists[0],1) . "</pre>";
   echo "<pre>" . print_r($response,1) . "</pre>";
