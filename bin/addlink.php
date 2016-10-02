@@ -8,7 +8,7 @@ $album = str_replace(",", " ", $album);
 $pictureurl=$_GET['pictureurl'];
 //https://api.spotify.com/v1/albums/{id}
 if (strlen ($url)==0){echo '
- <form id="form1" name="form1" method="post" action="addlink.php">
+ <form id="form1" name="form1" method="get" action="addlink.php">
  Add album to list<p>
  <label>Spotify-Album-Uri:
  <input type="text" name="url" id="url" />
