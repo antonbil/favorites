@@ -1,5 +1,2 @@
-spotify:album:4LeapWeLW9ZvORRPgDZ96N,Georg Philipp Telemann,Telemann,Recorder Music
-spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clarinet
-spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
 
-spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22, A Million,http://www.spotifynewmusic.com/covers/14361.jpg
+spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22  A Million,https://i.scdn.co/image/52abd9c07908386d56681b87a3c22b54bc904ed6

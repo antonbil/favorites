@@ -3,8 +3,6 @@ spotify:album:7bF8hPoxcvU0svbEBSs665,Jennifer Lopez,Lopez,Dance Again...The Hits
 spotify:album:3gRu0TcAVDPw289V3g4eRw,JMSN,,It is,https://i.scdn.co/image/43e88b64b6cf9e1aebc995cd9aa6f78a8a88cf42
 spotify:album:6ucAqp4vcalkHPunuyGv4n,Dexys,,Let the Record Show: Dexy...,https://i.scdn.co/image/5a07caa253419ad2da034cd536ebb12a744871cc
 spotify:album:0Vop2iSyeir0QntOrgamFN,Craig David,David,Following My Intuition (D...,http://www.spotifynewmusic.com/covers/14393.jpg
-spotify:album:6ktKxznxtvaTxZB8hna21f,Usher,,Hard II Love,http://www.spotifynewmusic.com/covers/14303.jpg
-spotify:album:2FXGUAESmG5l9YPrzWPvHI,PartyNextDoor,,PartyNextDoor 3 (P3),http://www.spotifynewmusic.com/covers/14147.jpg
 spotify:album:6pjoIUNpMtQaSJvRUmsnSh,Maxwell,,blackSUMMERS'night (2016),https://i.scdn.co/image/a9cf1d7f079b7cb82f11efb99a935340784f8e37
 spotify:album:0Rh4u4MOdPnoSAMH0OcgU4,Misha,,All We Will Become,https://i.scdn.co/image/5e7136e1d908b0ba4d9023098238be4b3a3f95b7
 spotify:album:2BmceJHiy9RTyvaB1IU0P6,NAO,,For All We Know,https://i.scdn.co/image/7bb9a958a586544b104408a1ba50116f4d00b3a8
@@ -17,3 +15,5 @@ spotify:album:5nkgosKhWt1yXRzmjXNV2d,Meghan Trainor,Trainor,Thank You (Deluxe),h
 spotify:album:2uh03RWTrpLJzfrrqeEIZs,Roy Woods,Woods,Waking at Dawn,https://i.scdn.co/image/3884e7318b384ef323724d10b91c0e20b29cd66e
 spotify:album:3NnAB6jt5B0jjkZAuNddVo,Fantasia,,The Definition Of...,https://i.scdn.co/image/2bc60cb1403186260e96979b25a1c01beee6826b
 spotify:album:4lVR2fg3DAUQpGVJ6DciHW,Ariana Grande,Grande,Dangerous Woman,https://i.scdn.co/image/4b99550818a710cacdab71dc9c5a07aa28eb7ad9
+spotify:album:6ktKxznxtvaTxZB8hna21f,Usher,,Hard II Love,https://i.scdn.co/image/09f9efe2bafe885ec044c8027717498826857db6
+spotify:album:2FXGUAESmG5l9YPrzWPvHI,PARTYNEXTDOOR,,PARTYNEXTDOOR 3 (P3),https://i.scdn.co/image/272376cc5ce2042be360ba3359d2c7983dbb7660

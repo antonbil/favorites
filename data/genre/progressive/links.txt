@@ -1,15 +1,10 @@
-spotify:album:7kkupNoMau7Plt2iYuz5lE,The Pineapple Thief, Pineapple ,Your Wilderness
-spotify:album:1OHXy5tVvlI5RpEAyWocw8,Frost*,,Falling Satellites
-spotify:album:4mybl80fNaflva7XGUjL9N,Mark Hollis,Hollis,Mark Hollis
-spotify:album:6i1BbUp2bTavuxlxC59tzS,Omni,,Deluxe
-spotify:album:4TVDGceRkm8EOBRT7xw39T,Solution,,Solution
-spotify:album:4zKSMYpAgpp70sKjs36AZw,Thank You Scientist,,Stranger Heads Prevail
 
 spotify:album:7pMD0cIE8oKASXLsbSfaHU,Marillion,,A Sunday Night Above the Rain (Live),https://i.scdn.co/image/b6445e86cf32a23d55f39e91c6d5a64fb2a5229d
 spotify:album:7wNwYiJIDWPUibvbxEpnAs,Marillion,,Brave Live 2013,https://i.scdn.co/image/1a755fe00bd1d614e751070296855c4555152ada
 spotify:album:4mybl80fNaflva7XGUjL9N,Mark Hollis,Hollis,Mark Hollis,https://i.scdn.co/image/2ed1be78e340ba5c02771924bd3971f54be54544
-spotify:album:7kkupNoMau7Plt2iYuz5lE,The Pineapple Thief,Pineapple,Your Wilderness,http://www.spotifynewmusic.com/covers/14116.jpg
 spotify:album:4zKSMYpAgpp70sKjs36AZw,Thank You Scientist,,Stranger Heads Prevail,http://www.spotifynewmusic.com/covers/14078.jpg
 spotify:album:6PEE3b9ji7dLmAYn5nfH2F,Karmakanic,,DOT,http://www.spotifynewmusic.com/covers/14040.jpg
 spotify:album:6i1BbUp2bTavuxlxC59tzS,Omni,,Deluxe,http://www.spotifynewmusic.com/covers/13953.jpg
 spotify:album:68rrZ8uyc7VzZC4GWj3Wki,Kansas,,The Prelude Implicit,https://i.scdn.co/image/2d682ac366332cde61f786f559d70bfe70c293fa
+spotify:album:1OHXy5tVvlI5RpEAyWocw8,Frost*,,Falling Satellites,https://i.scdn.co/image/c97c2617f1f287a90664b48c77610e6db3402d19
+spotify:album:4TVDGceRkm8EOBRT7xw39T,Solution,,Solution,https://i.scdn.co/image/da769fa16b1882f30fe35d3d27e0d9e839a0b779
