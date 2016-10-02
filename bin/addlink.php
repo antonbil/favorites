@@ -6,7 +6,7 @@
     <label>Spotify-Album-Uri:
     <input type="text" name="url" id="url" />
     </label><br/>
-    <label>Sort-item
+    <label>Sort-item:
     <input type="text" name="artistsort" id="artistsort" />
     </label>
 
