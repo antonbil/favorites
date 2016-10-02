@@ -25,7 +25,7 @@ usort($lines, "cmp");
     echo '
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
-    echo '<div><tr class="spotifyalbum">';
+    echo '<tr class="spotifyalbum">';
     $words=explode(",",$line);
     $id=$words[0];
     $artist=$words[1];
@@ -37,7 +37,7 @@ foreach ($lines as $line_num => $line) {
 
     echo "<td>Album #<b>{$line_num}</b> : </td><td><div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
     . $artist . "</div> <div class=\"album\">" . $album . "</div></td><td><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></td>\n";
-   echo '</tr></div>';
+   echo '</tr>';
 
 }
 echo '</table></p><input type="submit" name="delete" value="delete"/>';
