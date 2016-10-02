@@ -18,7 +18,7 @@ $b=$words2[2].$words2[1];
     }
     return ($a < $b) ? -1 : 1;
 }
-
+echo '<a href="">Add album to list</a><br/>'
 $str = file_get_contents('links.txt');
 $lines=explode("\n", $str);
 usort($lines, "cmp");
