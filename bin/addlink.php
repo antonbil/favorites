@@ -15,6 +15,7 @@ if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
   $response = json_decode($response);
   $name=$reponse["artists"][0].name;
   echo "Name: $name<br/>";
+  echo "<pre>" . print_r($response,1) . "</pre>"
   var_dump($response);
 } else {
   $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
