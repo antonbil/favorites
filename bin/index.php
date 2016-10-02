@@ -35,20 +35,29 @@ foreach ($lines as $line_num => $line) {
     echo '<input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'">';
 
     echo "<div class=\"spotifyalbum\">Album #<b>{$line_num}</b> : <div class=\"url\">" . $id . "</div> <div class=\"artist\">" 
-    . $artist . "</div> <div class=\"album\">" . $album . "</div><img src=\"".$imageurl."\"></div><br />\n";
+    . $artist . "</div> <div class=\"album\">" . $album . "</div><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></div><br />\n";
 
 }
     echo '</p><input type="submit" name="delete" value="delete"/>';
 if(isset($_GET['delete']))
 {
- $cnt=array();
- $cnt=count($_GET['checkbox']);
- for($i=0;$i<$cnt;$i++)
-  {
-     $del_id=$_GET['checkbox'][$i];
-     $query="remove where Id=".$del_id;
-     echo $query.'<br/>';
-  }}
+        $file = file("links.txt");
+        $cnt=array();
+        $cnt=count($_GET['checkbox']);
+        for($i=0;$i<$cnt;$i++)
+        {
+            $del_id=$_GET['checkbox'][$i];
+            $workitem="remove where Id=".$del_id;
+            echo $workitem.'<br/>';
+                foreach( $file as $key=>$line ) {
+                    if( false !== strpos($line, $workitem) ) {
+                    unset ($file[$key]);
+                    }
+                }
+
+        }
+        file_put_contents('links.txt', $file);
+  }
   echo '    </p>
     </form>
 ';
