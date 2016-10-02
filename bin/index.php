@@ -51,6 +51,7 @@ if(isset($_GET['delete']))
             echo $workitem.'<br/>';
                 foreach( $file as $key=>$line ) {
                     if( false !== strpos($line, $workitem) ) {
+                    echo 'found in line:'.$line;
                     unset ($file[$key]);
                     }
                 }
