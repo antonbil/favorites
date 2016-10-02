@@ -25,7 +25,7 @@ usort($lines, "cmp");
     echo '
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
-    echo '<div class=\"spotifyalbum\"><tr>';
+    echo '<div><tr class=\"spotifyalbum\">';
     $words=explode(",",$line);
     $id=$words[0];
     $artist=$words[1];
