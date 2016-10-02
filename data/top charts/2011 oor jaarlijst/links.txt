@@ -1,0 +1,30 @@
+
+spotify:album:7f1aXd7Gd5H9IqFu36zw6m,PJ Harvey,01,Let England Shake,https://i.scdn.co/image/b4937edd5f4451df14b35ee2a7df1d1d9e9bab6a
+spotify:album:5HelbMCeX3uTOZFxRMHF3w,Wilco,02,The Whole Love (Deluxe Edition),https://i.scdn.co/image/cd95f33b7bd8431e0bfb1fcc910e45361dbfcec3
+spotify:album:1p33MZjJlct3qizrEaHBe2,Spinvis,03,tot ziens  Justine Keller,https://i.scdn.co/image/fb0ed4e2bd38e6b5f0ace5896724bfad3731a266
+spotify:album:10ezzZAhOon51wDVhXgB77,James Blake,04,James Blake,https://i.scdn.co/image/a2e6e2e182d24033cb6143c1101ed14600d2276c
+spotify:album:7n3QJc7TBOxXtlYh4Ssll8,Adele,05,21,https://i.scdn.co/image/fe0f13e583408325f3b53118f632d386ac484813
+spotify:album:6ePsSjLdhZ8cFbxcZExAwl,Arctic Monkeys,06,Suck It and See,https://i.scdn.co/image/100223a315d7c83565bbead8d3b0e5b81c705726
+spotify:album:6eWtdQm0hSlTgpkbw4LaBG,The Vaccines,07,What Did You Expect From The Vaccines?,https://i.scdn.co/image/5c092b97e273ec1950d24949eb2f8deac8316e00
+spotify:album:2L6XXDKEv3xrx5ssFC6Pj6,Elbow,08,build a rocket boys!,https://i.scdn.co/image/ea32871c2bbdedd1ccecd2f726894d2cb6b4a7b7
+spotify:album:7d43Lo04zus42vyadC3Izr,Gillian Welch,09,The Harrow & The Harvest,https://i.scdn.co/image/e474c72be83f792c31a5767ce8099e0d7b1c9f0a
+spotify:album:32a7BrNNTAu7BVb6DcsMLP,Kurt Vile,10,Smoke Ring For My Halo,https://i.scdn.co/image/6c9c8c7a0ea7c1fa44384d619949e22b335df9fd
+spotify:album:018j8dSmbyaXTJA5QSiDLC,Pete And The Pirates,11,One Thousand Pictures,https://i.scdn.co/image/0626b2ba3afc57fbeea00e42c29211302072496f
+spotify:album:4XuDhEQRnieTnCbeUu9GoR,Destroyer,12,Kaputt,https://i.scdn.co/image/73ad53b9e44b98849a0a2112b7c2fec5429abd6e
+spotify:album:7pTARJYCVO49nFXB1Mo5re,Bon Iver,13,Bon Iver,https://i.scdn.co/image/e76a27e9f0443f178e1d455167da79913efdbb7f
+spotify:album:1ZEtUToEIvmCbEhWKGh9sv,Other Lives,14,Tamer Animals,https://i.scdn.co/image/b493c339de65fa857a8d483a7d9f1cb7f62b67df
+spotify:album:7nQR8pfT9dkYjdcYTDZziS,Fleet Foxes,15,Helplessness Blues,https://i.scdn.co/image/19789aa52d63f41641a3736739c7187d6efcf764
+spotify:album:1DBkJIEoeHrTX4WCBQGcCi,Radiohead,16,The King Of Limbs,https://i.scdn.co/image/9f69ce2bb80c60914cd4caf761afa8b1657f4783
+spotify:album:7exqkn1MEoUhfDRMjwCOgm,Fucked Up,17,David Comes To Life,https://i.scdn.co/image/2d2ca0dedc8ede96ec23252cb78d2e202317edc9
+spotify:album:2nBo5nFoszkjuY0bxv1y0A,Danger Mouse,19,Rome,https://i.scdn.co/image/a319407de8ac16046989a529ed546706da365d8c
+spotify:album:5qjRZRHEUy9SJuZBtbXJXu,The War On Drugs,20,Slave Ambient,https://i.scdn.co/image/59ad9551eeb6d8c7062b375a60137a2d6ee894d3
+spotify:album:26LEx6Am147roKPkvkmln2,The Decemberists,21,The King Is Dead,https://i.scdn.co/image/ba53c77eac00402ca9fbf80e209ec8c1ddc3fe13
+spotify:album:75YwOt5ddaUbX8j4pn9QqX,Zomby,22,Dedication,https://i.scdn.co/image/6c3c5df041a9e8ad064513aa338ab9d976544fd6
+spotify:album:7JIahVESjTiUPitNdOBEk1,Alamo Race Track,23,Unicorn Loves Deer,https://i.scdn.co/image/63ac8a0845c5f02d40ae0091405d334c4d20bbc1
+spotify:album:5BLMC31HkIFltSzuHlxYPk,Girls,24,Father  Son  Holy Ghost,https://i.scdn.co/image/c5d18c8dbe6d6260c272d58258bd865e8e896c9f
+spotify:album:671vYDTGlzYQfsibwLHxNB,Miles Kane,25,Colour Of The Trap,https://i.scdn.co/image/d2b6d05bf3f508a873f3df10cee7fc66fa0ee179
+spotify:album:2yiKLbNUEHAJzbNTn2UheW,Tim Knol,26,Days,https://i.scdn.co/image/23e8a5b29016d7a2a2b6e8a2ad4d274601d13fb1
+spotify:album:6kcr08oAUCpEyGmaNC3zeC,Dazzled Kid,27,Fire Needs Air,https://i.scdn.co/image/44b7c23ddbbab13a6aede687d6ad5764f576ae13
+spotify:album:3gmm8Sd93oyjTWug7Ci0Fd,Florence + The Machine,28,Ceremonials,https://i.scdn.co/image/1b05a4ed08a9f18c3474d8dcbcc5be9a682d84e5
+spotify:album:1w2aDtXIq2HjpZQOt8JaRa,Ryan Adams,29,Ashes & Fire,https://i.scdn.co/image/06f77c94d7cc680cd61381e11ac32160738fec67
+spotify:album:7Kmmw7Z5D2UD5MVwdm10sT,Foster The People,30,Torches,https://i.scdn.co/image/c3f13b4f7a674abda9aa36fd72fa341e918c0f26
