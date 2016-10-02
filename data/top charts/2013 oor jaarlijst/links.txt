@@ -16,3 +16,15 @@ spotify:album:0PZ13vrab3uBrITlFlgsiL,Franz Ferdinand,16,Right Thoughts  Right Wo
 spotify:album:35He6RuwS8C2KjG067Gobl,Laura Marling,17,Once I Was An Eagle,https://i.scdn.co/image/6489da12ab168bcbac08d9d5c246fe5eadd1c75f
 spotify:album:2spxrQq50aGqf9Barvc8fg,Mikal Cronin,18,MCII,https://i.scdn.co/image/f7c1bb49f61524fc2bdbe066d8adbb3f0f915ba2
 spotify:album:159ORixBSSemxiualv1Woj,Boards of Canada,20,Tomorrow's Harvest,https://i.scdn.co/image/9051648431a1b90c5b9a1e0c1e3d67079c57dc3b
+spotify:album:1lCaYGVwy25AGVzuNUU1rD,Phosphorescent,21,Muchacho,https://i.scdn.co/image/7061e7b0e1361a62c368402a647aecb31ad416c4
+spotify:album:1Wi3VNJF2Ju8T8bSsLaKpJ,Ásgeir,22,In the Silence,https://i.scdn.co/image/a5a7fe6cb1acaac6c393ff3c96e507a24e8a7789
+spotify:album:0aMC5DDAF86GvYNPaivEKd,Savages,23,Silence Yourself,https://i.scdn.co/image/9e1e52ff175506e2adc8df9ca6a5fd094d9880dd
+spotify:album:4XxWAvkbj2MnJzIAVaxNs5,Factory Floor,24,Factory Floor,https://i.scdn.co/image/695aa2650eab658d4a79d84feeecea5a96e63a3b
+spotify:album:1Lhx0U64aKhMBpLyzBzCu1,Jagwar Ma,25,Howlin,https://i.scdn.co/image/110ad3dd30963c99d5c040a6701362d5bb98c6bd
+spotify:album:06S2JBsr4U1Dz3YaenPdVq,Queens of the Stone Age,26,...Like Clockwork,https://i.scdn.co/image/ea597f3c6acf5be81c1eddee4d6d29bdd058a6b6
+spotify:album:68gYjtaIWlvCscoxuCqAiZ,Deerhunter,27,Monomania,https://i.scdn.co/image/e06195a77f1a0f1aff79672d7c43a1ce2dbed409
+spotify:album:3eVwN9Qju2pxBERkOQQv1Q,Agnes Obel,28,Aventine,https://i.scdn.co/image/52f8511f00fa048a4fd6844716dfcf5bdbf745f2
+spotify:album:4cUmmPVrj7VxrspsMqqp2R,Eefje de Visser,29,Het Is,https://i.scdn.co/image/5a9a2018622c1e24171547d93064be441676b49d
+spotify:album:6VoOCCv0bXPrTHDncJyIgF,Portugal. The Man,30,Evil Friends,https://i.scdn.co/image/949f8a584c7ebce94d1ceb04369d9441a836521e
+spotify:album:7jqNrm1l4wSxNYSjgK7tmF,Darkside,31,Psychic,https://i.scdn.co/image/70f6c662ecd6238a988440df175716d9a46ec3e7
+spotify:album:0Gf1yE895FKK4YWVRuAeg8,Tom Odell,32,Long Way Down (Deluxe),https://i.scdn.co/image/fcd9082d2948df4bfeb0ff33f9557ac26c1cb17e

@@ -20,3 +20,19 @@ spotify:album:0zLfcHOQC7MIOcvOqWGm3m,Björk,19,Vulnicura,https://i.scdn.co/image
 spotify:album:74QTwjBLo1eLqpjL320rXX,Ghost,20,Meliora,https://i.scdn.co/image/e1aed29c5645bc6704da0ac33e2a1f1a2172c2f2
 
 
+
+spotify:album:3WEjCL177BcOIYwlysKtcm,Balthazar,21,Thin Walls,https://i.scdn.co/image/1187f84a2d518fd1637888538bab06524e29c368
+spotify:album:1l7gMbzE7RRAdYddJSfM5B,Sleater-Kinney,22,No Cities to Love,https://i.scdn.co/image/3f29dc20e25f379a177dc2adad7660a6b885bd2a
+spotify:album:3rVfXtGiIeKX1nkHXhiN1D,Girl Band,23,Holding Hands With Jamie,https://i.scdn.co/image/f880fbc05e953da92932fcc855367efa17194982
+spotify:album:7L1ScQDVzNJOPb5A59RgMd,Rats On Rafts,24,Tape Hiss,https://i.scdn.co/image/20a800e21009ae732c95d2f0b051c38688702022
+spotify:album:0y5XgOUEiJSSIMxC4ALRAC,Deerhunter,25,Fading Frontier,https://i.scdn.co/image/6116b8fa3ff6c7de145a5a517cdbfa94e267e1b6
+spotify:album:7elNFxdWSjWvtUP1gqyQGV,Tobias Jesso Jr.,26,Goon,https://i.scdn.co/image/042855db7f6d1f5dc6be8794f14b069d9edb78de
+spotify:album:5kIEyHNiAmOOgR1SKCBCBh,Ultimate Painting,27,Green Lanes,https://i.scdn.co/image/f0cbc638860c0b7c45ebb0eaf81fddd8e333766c
+spotify:album:4Uq7Rw4cUuSWrdQgfksMOl,Torres,28,Sprinter,https://i.scdn.co/image/992d438bba602f6953e10c5d06d3a647b7ef38d9
+spotify:album:1x1agDGl1Y7npXRF7u3prS,Holly Herndon,29,Platform,https://i.scdn.co/image/f94b9fa6240921b83aec0155373b108ead4f72bb
+spotify:album:6Il9jwREmViqtjAXbkprVA,Ought,30,Sun Coming Down,https://i.scdn.co/image/07acd38c2e98f51a224073a85be28ae368d7a08e
+spotify:album:5HhvfDkoM2a0oghjW8aJNf,Ryley Walker,31,Primrose Green,https://i.scdn.co/image/2c2796f3c0cddd067b4915d0a649e2a371137869
+spotify:album:4uv20j21rpmW9jLfEa8Dnh,Beach House,32,Depression Cherry,https://i.scdn.co/image/bf871781146c08d6a0f62b60d16179543a59a126
+spotify:album:5Hfbag0SsHxafx1SySFSX6,D'Angelo,33,Black Messiah,https://i.scdn.co/image/8a0ee7c82da6b3099c7c25e599d2b3a4b3e3cf7c
+spotify:album:55uQXRIwm0WeJX8g7f5aCf,Low,35,Ones and Sixes,https://i.scdn.co/image/afae6a232bf81bba8be381b1b44cd52b37bef60c
+spotify:album:3VisGk4cmC5jB78Uu3mR0T,Benjamin Clementine,36,At Least For Now,https://i.scdn.co/image/e82f30ffd1aa621a00528ba23d1dce7e17848442

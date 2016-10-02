@@ -21,3 +21,9 @@ spotify:album:1dKh4z5Aayt8FFDWjO5FDh,Future Islands,20,Singles,https://i.scdn.co
 spotify:album:6oRuinkJdTge4hpTuClEF8,Aphex Twin,21,Syro,https://i.scdn.co/image/8b16cee8c4d579aacf217ccc5dbe8156b1989dc7
 spotify:album:112v1gUdm5JBkySoM5U620,Caribou,22,Our Love,https://i.scdn.co/image/a941dbcde656d59d60fda283497ec22a5e07d60a
 spotify:album:2shyjsWrlKEwRCMXt7yRA7,Kik,23,2,https://i.scdn.co/image/fe0d55c3a644aab1b0515188dd6c62dc12bc4d2c
+spotify:album:4VJGAU5yH56Z9zqGbllv0S,Together Pangea,25,Badillac,https://i.scdn.co/image/0ae0e71f77ccdae31f26ccdf7fe00e56abfd5d7e
+spotify:album:5SEJxl1hYnNjyNBpPpHTMo,Reigning Sound,26,Shattered,https://i.scdn.co/image/65cf0f15d43f463153b1f4b8520f7e940a7ffdea
+spotify:album:28FxHb9OJRzAch4DwUUsaT,Perfume Genius,27,Too Bright,https://i.scdn.co/image/549fff279693a7713ebaaaa1312ff71d2ab29ea4
+spotify:album:0hLNDK6qqmScdwxU7kvnXn,Cloud Nothings,28,Here and Nowhere Else,https://i.scdn.co/image/2ed9858aebbacc23d0d28585e4834050bbae131c
+spotify:album:7iuAif3jt2f5DpESNp8MOR,The Black Keys,29,Turn Blue,https://i.scdn.co/image/8d7fecb37fdde23ed9b961c8a8a8dc32b8cfb7c2
+spotify:album:0BFzNaeaNv4mahOzwZFGHK,Royal Blood,30,Royal Blood,https://i.scdn.co/image/f2676245261b6872947c7813333e0a570328d936
