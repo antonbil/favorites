@@ -50,7 +50,7 @@ if(isset($_GET['delete']))
             $workitem="remove where Id=".$del_id;
             echo $workitem.'<br/>';
                 foreach( $file as $key=>$line ) {
-                    if( false !== strpos($line, $workitem) ) {
+                    if( false !== strpos($line, $del_id) ) {
                     echo 'found in line:'.$line;
                     unset ($file[$key]);
                     }
