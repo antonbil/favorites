@@ -40,7 +40,7 @@ foreach ($lines as $line_num => $line) {
    echo '</tr>';
 
 }
-    echo '</p><input type="submit" name="delete" value="delete"/>';
+echo '</table></p><input type="submit" name="delete" value="delete"/>';
 if(isset($_GET['delete']))
 {
         $file = file("links.txt");
@@ -63,7 +63,7 @@ if(isset($_GET['delete']))
         file_put_contents('links.txt', $file);
   }
   echo '    </p>
-    </table></form>
+    </form>
 ';
   ?>
 </html>
