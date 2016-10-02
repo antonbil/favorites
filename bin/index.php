@@ -23,8 +23,9 @@ $str = file_get_contents('links.txt');
 $lines=explode("\n", $str);
 usort($lines, "cmp");
     echo '
-    <form id="form1" name="form1" method="get" action="index.php">';
+    <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
+    echo '<tr>';
     $words=explode(",",$line);
     $id=$words[0];
     $artist=$words[1];
@@ -32,10 +33,11 @@ foreach ($lines as $line_num => $line) {
     $album=$words[3];
     $imageurl="";
     if (count($words)>4)$imageurl=$words[4]; 
-    echo '<input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'">';
+    echo '<td><input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'"></td>';
 
-    echo "<div class=\"spotifyalbum\">Album #<b>{$line_num}</b> : <div class=\"url\">" . $id . "</div> <div class=\"artist\">" 
-    . $artist . "</div> <div class=\"album\">" . $album . "</div><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></div><br />\n";
+    echo "<td><div class=\"spotifyalbum\">Album #<b>{$line_num}</b> : <div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
+    . $artist . "</div> <div class=\"album\">" . $album . "</div></td><td><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></div></td><br />\n";
+   echo '</tr>';
 
 }
     echo '</p><input type="submit" name="delete" value="delete"/>';
@@ -53,6 +55,7 @@ if(isset($_GET['delete']))
                     if( false !== strpos($line, $del_id) ) {
                     echo 'found in line:'.$line;
                     unset ($file[$key]);
+                    break;//only first occurrence must be removed
                     }
                 }
 
@@ -60,7 +63,7 @@ if(isset($_GET['delete']))
         file_put_contents('links.txt', $file);
   }
   echo '    </p>
-    </form>
+    </table></form>
 ';
   ?>
 </html>
