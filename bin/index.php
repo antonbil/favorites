@@ -35,9 +35,9 @@ foreach ($lines as $line_num => $line) {
     if (count($words)>4)$imageurl=$words[4]; 
     echo '<td><input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'"></td>';
 
-    echo "<td><div class=\"spotifyalbum\">Album #<b>{$line_num}</b> : <div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
+    echo "<div class=\"spotifyalbum\"><td>Album #<b>{$line_num}</b> : </td><td><div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
     . $artist . "</div> <div class=\"album\">" . $album . "</div></td><td><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></div></td>\n";
-   echo '</tr>';
+   echo '</div></tr>';
 
 }
 echo '</table></p><input type="submit" name="delete" value="delete"/>';
