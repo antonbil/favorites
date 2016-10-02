@@ -25,7 +25,7 @@ usort($lines, "cmp");
     echo '
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
-    echo '<tr>';
+    echo '<div class=\"spotifyalbum\"><tr>';
     $words=explode(",",$line);
     $id=$words[0];
     $artist=$words[1];
@@ -35,9 +35,9 @@ foreach ($lines as $line_num => $line) {
     if (count($words)>4)$imageurl=$words[4]; 
     echo '<td><input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'"></td>';
 
-    echo "<div class=\"spotifyalbum\"><td>Album #<b>{$line_num}</b> : </td><td><div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
-    . $artist . "</div> <div class=\"album\">" . $album . "</div></td><td><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></div></td>\n";
-   echo '</div></tr>';
+    echo "<td>Album #<b>{$line_num}</b> : </td><td><div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
+    . $artist . "</div> <div class=\"album\">" . $album . "</div></td><td><img src=\"".$imageurl."\" height=\"42\" width=\"42\"></td>\n";
+   echo '</tr></div>';
 
 }
 echo '</table></p><input type="submit" name="delete" value="delete"/>';
