@@ -22,7 +22,7 @@ if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
   $pictureurl=$response->images[$nr]->url;
   $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
   echo $out."<br/>";
-  //file_put_contents('links.txt', $out, FILE_APPEND);
+  file_put_contents('links.txt', $out, FILE_APPEND);
 } else {
   $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
   file_put_contents('links.txt', $out, FILE_APPEND);
