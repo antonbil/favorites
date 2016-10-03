@@ -6,14 +6,13 @@
     .album{width: 150px;}
     .url{width: 0px;white-space: nowrap; overflow: scroll;}
     .img{width: 0px;white-space: nowrap; overflow: scroll;}
-table td 
-{
-  table-layout:fixed;
-  width:20px;
-  overflow:hidden;
-  word-wrap:break-word;
-}
-</style>
+ table {
+border-collapse: collapse;
+border-spacing: 0;
+-webkit-border-horizontal-spacing: 0px; 
+-webkit-border-vertical-spacing: 0px;
+table-layout:fixed;
+}</style>
  </head>
  <body>
 
@@ -48,11 +47,15 @@ foreach ($lines as $line_num => $line) {
     if (count($words)>4)$imageurl=$words[4]; 
     echo '<td><input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'"></td>';
 
-    echo "<td><b>{$line_num}</b></td><td >".
-    "<input name=\"button\" type=\"button\" class=\"btn\" value=\"url\" onClick=\"alert('". $id ."')\">".
+    echo "<td><b>{$line_num}</b></td>".
+    "<td  width=\"0\" >".
     "<div class=\"url\">" . $id . "</div>".
+    "<div class=\"img\">" . $imageurl . "</div>".
+    "</td><td >".
+    "<input name=\"button\" type=\"button\" class=\"btn\" value=\"url\" onClick=\"alert('". $id ."')\">".
     " </td><td><div class=\"artist\">" 
-    . $artist . "</div> <div class=\"album\">" . $album . "</div> <div class=\"img\">" . $imageurl . "</div></td><td><img  src=\"".$imageurl."\" height=\"42\" width=\"42\"></td>\n";
+    . $artist . "</div> <div class=\"album\">" . $album . "</div> ".
+   "</td><td><img  src=\"".$imageurl."\" height=\"42\" width=\"42\"></td>\n";
    echo '</tr>';
 
 }
@@ -84,14 +87,14 @@ if(isset($_GET['delete']))
 ';
   ?>
 <script>
-    var divsToHide = document.getElementsByClassName("img"); //divsToHide is an array
+    /*var divsToHide = document.getElementsByClassName("img"); //divsToHide is an array
     for(var i = 0; i < divsToHide.length; i++){
         divsToHide[i].style.visibility = "hidden";
     }
     var divsToHide = document.getElementsByClassName("url"); //divsToHide is an array
     for(var i = 0; i < divsToHide.length; i++){
         divsToHide[i].style.visibility = "hidden";
-    }
+    }*/
 </script>
   </body>
 
