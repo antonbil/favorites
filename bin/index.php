@@ -1,9 +1,22 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Spotify List</title>
+  <style>
+    .artist{width: 150px;}
+    .album{width: 150px;}
+    .url{width: 0px;white-space: nowrap; overflow: scroll;}
+    .img{width: 0px;white-space: nowrap; overflow: scroll;}
+table td 
+{
+  table-layout:fixed;
+  width:20px;
+  overflow:hidden;
+  word-wrap:break-word;
+}
+</style>
  </head>
  <body>
-  </body>
+
  <?php 
 
 function cmp($a, $b)
@@ -35,7 +48,10 @@ foreach ($lines as $line_num => $line) {
     if (count($words)>4)$imageurl=$words[4]; 
     echo '<td><input name="checkbox[]" type="checkbox" value="'.str_replace ( "spotify:album:","",$id).'"></td>';
 
-    echo "<td>Album #<b>{$line_num}</b> : </td><td><div class=\"url\">" . $id . "</div> </td><td><div class=\"artist\">" 
+    echo "<td><b>{$line_num}</b></td><td >".
+    "<input name=\"button\" type=\"button\" class=\"btn\" value=\"url\" onClick=\"alert('". $id ."')\">".
+    "<div class=\"url\">" . $id . "</div>".
+    " </td><td><div class=\"artist\">" 
     . $artist . "</div> <div class=\"album\">" . $album . "</div> <div class=\"img\">" . $imageurl . "</div></td><td><img  src=\"".$imageurl."\" height=\"42\" width=\"42\"></td>\n";
    echo '</tr>';
 
@@ -67,5 +83,16 @@ if(isset($_GET['delete']))
     </form>
 ';
   ?>
+<script>
+    var divsToHide = document.getElementsByClassName("img"); //divsToHide is an array
+    for(var i = 0; i < divsToHide.length; i++){
+        divsToHide[i].style.visibility = "hidden";
+    }
+    var divsToHide = document.getElementsByClassName("url"); //divsToHide is an array
+    for(var i = 0; i < divsToHide.length; i++){
+        divsToHide[i].style.visibility = "hidden";
+    }
+</script>
+  </body>
+
 </html>
- <?php 
