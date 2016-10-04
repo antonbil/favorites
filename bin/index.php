@@ -71,14 +71,30 @@ if(isset($_GET['delete']))
             $workitem="remove where Id=".$del_id;
             echo $workitem.'<br/>';
                 foreach( $file as $key=>$line ) {
-                    if( false !== strpos($line, $del_id) ) {
+                  if( false !== strpos($line, $del_id) ) {
                     echo 'found in line:'.$line;
                     unset ($file[$key]);
                     break;//only first occurrence must be removed
-                    }
+                  }
                 }
 
         }
+        file_put_contents('links.txt', $file);
+        echo '</p><a href="index.php">See result of deletion</a><br/>';
+  }
+if(isset($_GET['deleteitem']))
+{
+        $file = file("links.txt");
+        $delkey=$_GET['key'];
+                foreach( $file as $key=>$line ) {
+                  if( false !== strpos($line, $delkey) ) {
+                    echo 'found in line:'.$line;
+                    unset ($file[$key]);
+                    break;//only first occurrence must be removed
+                  }
+                }
+
+
         file_put_contents('links.txt', $file);
         echo '</p><a href="index.php">See result of deletion</a><br/>';
   }
