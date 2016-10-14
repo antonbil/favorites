@@ -40,8 +40,9 @@ else
     echo '
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
-    echo '<tr class="spotifyalbum">';
     $words=explode(",",$line);
+    if ($words.length<2)continue;
+    echo '<tr class="spotifyalbum">';
     $id=$words[0];
     $artist=$words[1];
     $rtistsort=$words[2];
