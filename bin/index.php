@@ -33,7 +33,10 @@ $b=$words2[2].$words2[1];
 echo '<a href="addlink.php">Add album to list</a><br/>';
 $str = file_get_contents('links.txt');
 $lines=explode("\n", $str);
-usort($lines, "cmp");
+if (isset($reverseSort))
+    rsort($lines)
+else
+    usort($lines, "cmp");
     echo '
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
