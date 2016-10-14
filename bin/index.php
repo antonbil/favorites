@@ -34,7 +34,7 @@ echo '<a href="addlink.php">Add album to list</a><br/>';
 $str = file_get_contents('links.txt');
 $lines=explode("\n", $str);
 if (isset($reverseSort))
-    rsort($lines)
+    rsort($lines);
 else
     usort($lines, "cmp");
     echo '
