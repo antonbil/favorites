@@ -41,7 +41,7 @@ else
     <form id="form1" name="form1" method="get" action="index.php"><table>';
 foreach ($lines as $line_num => $line) {
     $words=explode(",",$line);
-    if ($words.length<2)continue;
+    if (sizeof($words)<2)continue;
     echo '<tr class="spotifyalbum">';
     $id=$words[0];
     $artist=$words[1];
