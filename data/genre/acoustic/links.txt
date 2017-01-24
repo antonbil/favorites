@@ -1,2 +1,24 @@
 
-spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22  A Million,https://i.scdn.co/image/52abd9c07908386d56681b87a3c22b54bc904ed6
+spotify:album:518syyOKJtmhFFB3uAYkOx,Julie Byrne,Byrne,Rooms With Walls and Wind...,http://www.spotifynewmusic.com/covers/10995.jpg
+spotify:album:6AdBW3SogcqcaBW8b10yc5,Lawson,,Perspective,http://www.spotifynewmusic.com/covers/13959.jpg
+spotify:album:0zdZQref2nOAo3CTmgBwyW,Bear's Den,,Red Earth & Pouring Rain,http://www.spotifynewmusic.com/covers/14012.jpg
+spotify:album:03tyMdulEl0V5Bp0sXCwFe,Lou Rhodes,Rhodes,Theyesandeye,http://www.spotifynewmusic.com/covers/14013.jpg
+spotify:album:6NihDm0lfUBC90QkSsWB3d,Conveyor,,Ready Not Ready,http://www.spotifynewmusic.com/covers/14015.jpg
+spotify:album:1LG5QVJNbSVCXYyjuMx39p,Owen,,The King of Whys,http://www.spotifynewmusic.com/covers/14050.jpg
+spotify:album:4eMNnpc8IgM9wVHZyQhGvF,Pascal Pinon,Pinon,Sundur,http://www.spotifynewmusic.com/covers/14135.jpg
+spotify:album:4kIeY5O7bQBaP4ChUvZqAh,Blind Pilot,,And Then Like Lions,http://www.spotifynewmusic.com/covers/14122.jpg
+spotify:album:5osTMCb85ra91MWDGMTlYv,Lisa Hannigan,Hannigan,At Swim,http://www.spotifynewmusic.com/covers/14139.jpg
+spotify:album:5ZCiMbmSo5QuXRVtuGP9qt,Carl Broemel,Broemel,4th of July,http://www.spotifynewmusic.com/covers/14148.jpg
+spotify:album:5wFx5YVbKYhfXi7Da83liY,David Brent,Brent,Life On The Road,http://www.spotifynewmusic.com/covers/14158.jpg
+spotify:album:6pzoDMaxrkGRsjoMKey5x8,Ryley Walker,Walker,Golden Sings That Have Be...,http://www.spotifynewmusic.com/covers/14127.jpg
+spotify:album:2PaNkZV2WVwOMoRWR7V9cS,Tall Heights,,Neptune,http://www.spotifynewmusic.com/covers/14164.jpg
+spotify:album:1oMFudOxU0ugO1YRPLRXBR,Ingrid Michaelson,Michaelson,It Doesn't Have to Make S...,http://www.spotifynewmusic.com/covers/14194.jpg
+spotify:album:7kxW6Wn0SeSm0nz5hkKuEP,Izzy Bizu,Bizu,A Moment of Madness (Delu...,http://www.spotifynewmusic.com/covers/14213.jpg
+spotify:album:0R1Jrf5J6B4dr9dpjSoUi1,Adam Torres,Torres,Pearls To Swine,http://www.spotifynewmusic.com/covers/14265.jpg
+spotify:album:6TlErHJTph5RZ9YDf2yOXl,Keaton Henson,Henson,Kindly Now,http://www.spotifynewmusic.com/covers/14295.jpg
+spotify:album:25aBIBguKLNbVJv7OxnzLz,Seth Lakeman,Lakeman,Ballads Of The Broken Few,http://www.spotifynewmusic.com/covers/14302.jpg
+spotify:album:0DRzGMRM012TpkZYfJqyhm,The Devil Makes Three,Devil,Redemption & Ruin,http://www.spotifynewmusic.com/covers/14317.jpg
+spotify:album:5n503gYB53mcIr8p2qwNWs,Shawn Mendes,Mendes,Illuminate,http://www.spotifynewmusic.com/covers/14346.jpg
+spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22  A Million,http://www.spotifynewmusic.com/covers/14361.jpg
+spotify:album:4FzGrd7d6vNKBMNNJtri3j,Itasca,,Open to Chance,http://www.spotifynewmusic.com/covers/14382.jpg
+spotify:album:1IEXp8GciZ26FtY06qXCiY,Sully Erna,Erna,Hometown Life,http://www.spotifynewmusic.com/covers/14399.jpg

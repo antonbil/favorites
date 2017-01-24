@@ -1,3 +1,26 @@
 spotify:album:0gtU58GVllHFpZzIgLd5lV,Bastille,,9.Wild World,http://hitparade.ch/cdi/bastille-wild_world_a.jpg
-spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/image/19c4c03fcb436bd498239fe8eea91ee18c09b603
-spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/image/19c4c03fcb436bd498239fe8eea91ee18c09b603
+spotify:album:2yEUUbFJfwDngoNm2yw9TB,Heart,,Beautiful Broken,http://www.spotifynewmusic.com/covers/13958.jpg
+spotify:album:666cAV5PwSSXBw3EoVEeb9,Gone Is Gone,,Gone Is Gone,http://www.spotifynewmusic.com/covers/13972.jpg
+spotify:album:71N67dfMIkvyikV9ygSOuF,Jeff Beck,Beck,Loud Hailer,http://www.spotifynewmusic.com/covers/13988.jpg
+spotify:album:3YoVKwAtww8cENvhL2IepF,Good Charlotte,,Youth Authority,http://www.spotifynewmusic.com/covers/13995.jpg
+spotify:album:14EYZdjH1hDluiKWWEo4SM,Brendan Canning,Canning,Home Wrecking Years,http://www.spotifynewmusic.com/covers/14105.jpg
+spotify:album:3PYk8e7eo2t5CA1Y3AvhaG,Young The Giant,,Home of the Strange,http://www.spotifynewmusic.com/covers/14119.jpg
+spotify:album:1CrUuGhl3nGoA9sopZUkEV,The Veils,Veils,Total Depravity,http://www.spotifynewmusic.com/covers/14180.jpg
+spotify:album:6VH2op0GKIl3WNTbZmmcmI,Led Zeppelin,,The Complete BBC Sessions,http://www.spotifynewmusic.com/covers/14316.jpg
+spotify:album:49yVOt7WaPjGNvxA4tAGKL,Yellowcard,,Yellowcard,http://www.spotifynewmusic.com/covers/14397.jpg
+spotify:album:7qoYSL131j5zm51atBloM7,Feeder,,All Bright Electric (Delu...,http://www.spotifynewmusic.com/covers/14435.jpg
+spotify:album:1pPh5ovrZuUWWX8wjgDSBg,Eric Johnson,Johnson,EJ,http://www.spotifynewmusic.com/covers/14444.jpg
+spotify:album:1SpttuqXRFeIyiEGHER2l7,Melissa Etheridge,Etheridge,MEmphis Rock And Soul,http://www.spotifynewmusic.com/covers/14440.jpg
+spotify:album:19E3mLwmj56Mews43zMJqr,Phish,,Big Boat,http://www.spotifynewmusic.com/covers/14419.jpg
+spotify:album:21UAXVaTaYgCTarAuHPFJo,Van Der Graaf Generator,,Do Not Disturb,http://www.spotifynewmusic.com/covers/14383.jpg
+spotify:album:5eVlWcbpI9nN6P18U6laaw,SHVPES,,Pain. Joy. Ecstasy. Despa...,http://www.spotifynewmusic.com/covers/14521.jpg
+spotify:album:03hVtUfmQW3fhMbYoliIod,Jimmy Eat World,,Integrity Blues,http://www.spotifynewmusic.com/covers/14514.jpg
+spotify:album:665dkVxWkhO3lW580C4bwj,Pretenders,,Alone,http://www.spotifynewmusic.com/covers/14498.jpg
+spotify:album:0UGqqYIWXAD1FgrDI1zOjh,Korn,,The Serenity of Suffering,http://www.spotifynewmusic.com/covers/14502.jpg
+spotify:album:3jeTB3j3QmUs8SPIVleHtU,Leonard Cohen,Cohen,You Want It Darker,http://www.spotifynewmusic.com/covers/14497.jpg
+spotify:album:0UY3NsmpXFjgko4rkkRQ9M,Syd Arthur,Arthur,Apricity,http://www.spotifynewmusic.com/covers/14508.jpg
+spotify:album:6gmJvo1Dy4v2xSD9i3P3wS,Hooton Tennis Club,,Big Box of Chocolates,http://www.spotifynewmusic.com/covers/14509.jpg
+spotify:album:5iBKsXXfmyDXp2PJsYvb0Q,The Dean Ween Group,Dean,The Deaner Album,http://www.spotifynewmusic.com/covers/14490.jpg
+The Rolling Stones ,,Rolling Stones,,
+The Rolling Stones ,,Rolling Stones - Blue ,,
+spotify:album:6hWOUS4QzVXHRkTEZXE0Rc,The Rolling Stones,Rolling Stones - Ride 'Em On Down,Ride 'Em On Down,https://i.scdn.co/image/4e626ab51384afe8f45476bf9b6be7910c3e3f50

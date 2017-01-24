@@ -1,0 +1,8 @@
+
+spotify:album:3n5HrqaTANZzf58eD18Woo,Cassy,,Donna,http://www.spotifynewmusic.com/covers/13969.jpg
+spotify:album:4C6G2CphpLh62SPsOtNf6g,Delroy Edwards,Edwards,Hangin' At the Beach,http://www.spotifynewmusic.com/covers/14088.jpg
+spotify:album:7JOBQa2I1VIwVn2IcC9Uq4,Hieroglyphic Being,,The Disco's Of Imhotep,http://www.spotifynewmusic.com/covers/14090.jpg
+spotify:album:4g8AOBMFKeuthiXpj6Kxmr,Trentemoller,,Fixion,http://www.spotifynewmusic.com/covers/14285.jpg
+spotify:album:3aRAtOaa266hzDNLFlxZWF,Cristian Vogel,Vogel,The Assistenz,http://www.spotifynewmusic.com/covers/14286.jpg
+spotify:album:4iF43Zfi3hN1eGZyPqvoVr,Mr. Oizo,,All Wet,http://www.spotifynewmusic.com/covers/14381.jpg
+spotify:album:7clxr24R6XrmalqJxycDZq,Powell,,Sport,http://www.spotifynewmusic.com/covers/14467.jpg

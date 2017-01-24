@@ -1,0 +1,9 @@
+
+spotify:album:7kxW6Wn0SeSm0nz5hkKuEP,Izzy Bizu,Bizu,A Moment of Madness (Delu...,http://www.spotifynewmusic.com/covers/14213.jpg
+spotify:album:3JYng1xJxNZIqdyqrdQ0Oz,Blossoms,,Blossoms,http://www.spotifynewmusic.com/covers/14061.jpg
+spotify:album:0Vop2iSyeir0QntOrgamFN,Craig David,David,Following My Intuition (D...,http://www.spotifynewmusic.com/covers/14393.jpg
+spotify:album:3Yko2SxDk4hc6fncIBQlcM,Solange,,A Seat at the Table,http://www.spotifynewmusic.com/covers/14402.jpg
+spotify:album:02qKdyeCFJQT5pgThu3psz,Jamie Lidell,Lidell,Building a Beginning,https://i.scdn.co/image/01d7409c6d7b1cfbc2a27a96e80859e3cf91a303
+spotify:album:6tBNdS0BQfk0je0wGgrrhg,The Seshen,Seshen,Flames & Figures,http://www.spotifynewmusic.com/covers/14470.jpg
+spotify:album:42k9awXv6CograhAtkDXRA,Rebecca Ferguson,Ferguson,Superwoman,http://www.spotifynewmusic.com/covers/14512.jpg
+spotify:album:6fWdqAV8p6rcdwGuSfgGNm,NxWorries,,Yes Lawd!,http://www.spotifynewmusic.com/covers/14488.jpg

@@ -3,3 +3,36 @@ spotify:album:1BedrXdH4el7fWWIYMC99N,Preoccupations,,Preoccupations,https://i.sc
 spotify:album:6Xhb46t8f3z8FkuXQAj4UV,ZHU,,GENERATIONWHY,https://i.scdn.co/image/ce0fc50281a2917296bf1d8146157c1612a957ee
 spotify:album:4XtS3Rdgd5iEOBUZzETMo0,Tristan Perich,,Noise Patterns,https://i.scdn.co/image/8b0af5368972f337a3666a723531ac6589a75559
 spotify:album:3lgt33iAV9YVd8lDoGozHp,Chicane,,Twenty,https://i.scdn.co/image/29080b87931bfcd281ddb8a93a943de58b152b6f
+spotify:album:5csZqOP7614sWxpmoNStN7,Vangelis,,Rosetta,http://www.spotifynewmusic.com/covers/14384.jpg
+spotify:album:4iF43Zfi3hN1eGZyPqvoVr,Mr. Oizo,Oizo,All Wet,http://www.spotifynewmusic.com/covers/14381.jpg
+spotify:album:2EvZiOMBlC9b5hbjbZCjZv,Nicolas Jaar,Jaar,Sirens,http://www.spotifynewmusic.com/covers/14374.jpg
+spotify:album:2uT9n8u1KlIsuVBzjt2gzt,Yello,,Toy,http://www.spotifynewmusic.com/covers/14377.jpg
+spotify:album:3SzNTLHbVm0borYWkbrzf0,Banks,,The Altar,http://www.spotifynewmusic.com/covers/14380.jpg
+spotify:album:2CtNPJskEyLAiefFAm7hCm,Forma,,Physicalist,http://www.spotifynewmusic.com/covers/14355.jpg
+spotify:album:3bUAyrzzRc9hpexVxybJTe,Biosphere,,Departed Glories,http://www.spotifynewmusic.com/covers/14354.jpg
+spotify:album:20nKOt2dQcgHPazAVF4NnS,The Gaslamp Killer,Gaslamp,Instrumentalepathy,http://www.spotifynewmusic.com/covers/14353.jpg
+spotify:album:0KrM1lyiBjl3U2h1RBYu1B,Ryuichi Sakamoto,Sakamoto,Nagasaki: Memories Of My ...,http://www.spotifynewmusic.com/covers/14326.jpg
+spotify:album:4ZUJeqfLic712W7BnLESZi,Xander Harris,Harris,California Chrome,http://www.spotifynewmusic.com/covers/14341.jpg
+spotify:album:1so4uecEQlyhPJbQLJ4wFF,Kaitlyn Aurelia Smith,Smith,FRKWYS Vol. 13: Sunergy,http://www.spotifynewmusic.com/covers/14312.jpg
+spotify:album:54ojvQrkKrsWsVfPNOAuin,Blue States,,Restless Spheres,http://www.spotifynewmusic.com/covers/14291.jpg
+spotify:album:6DXbJ213F5VGlyLJMS9XDM,AlunaGeorge,,I Remember,http://www.spotifynewmusic.com/covers/14289.jpg
+spotify:album:3aRAtOaa266hzDNLFlxZWF,Cristian Vogel,Vogel,The Assistenz,http://www.spotifynewmusic.com/covers/14286.jpg
+spotify:album:4g8AOBMFKeuthiXpj6Kxmr,Trentemoller,,Fixion,http://www.spotifynewmusic.com/covers/14285.jpg
+spotify:album:0nADKJFHqfEOzcb7Auwg60,Of Mice And Men,,Cold World,http://www.spotifynewmusic.com/covers/14278.jpg
+spotify:album:5BKldLxpAN7DYjjNZk51w6,Roisin Murphy,Murphy,Take Her Up to Monto,http://www.spotifynewmusic.com/covers/13956.jpg
+spotify:album:1pC7hHcaOmrDotqv1ZnuT8,Aphex Twin,,Cheetah EP,http://www.spotifynewmusic.com/covers/13948.jpg
+spotify:album:5hp72ounyv98s1MMvfdfrI,Metronomy,,Summer 08,http://www.spotifynewmusic.com/covers/13931.jpg
+spotify:album:5R7DE49oUMpLHuwsE1BrxB,Nonkeen,,Oddments of the Gamble,http://www.spotifynewmusic.com/covers/13982.jpg
+spotify:album:7Amrg2WughWQXMEmUfjhl3,Clams Casino,,32 Levels,http://www.spotifynewmusic.com/covers/13984.jpg
+spotify:album:5gc2S04vG0rEGnTaTwOvus,Francis and the Lights,,Farewell  Starlite!,http://www.spotifynewmusic.com/covers/14420.jpg
+spotify:album:2dBOkshfIym2yZmPZIYNE2,C Duncan,,The Midnight Sun,http://www.spotifynewmusic.com/covers/14428.jpg
+spotify:album:2YULFIayH3B2DsR2xFm3mt,Phantogram,,Three,http://www.spotifynewmusic.com/covers/14284.jpg
+spotify:album:1M0prXqZUbByD3mSJ2JMoB,patten,,Ψ,http://www.spotifynewmusic.com/covers/14439.jpg
+spotify:album:5mvjXE0GQ6qm9IsoUGykAE,Machinedrum,,Human Energy,http://www.spotifynewmusic.com/covers/14404.jpg
+spotify:album:2m6F80tloy7cCTXwVWiYfU,Luo,,Sleep Spindles,http://www.spotifynewmusic.com/covers/14523.jpg
+spotify:album:4JiY4JUvXdEA7UFIbiAyor,Lady Gaga,,Joanne,http://www.spotifynewmusic.com/covers/14491.jpg
+spotify:album:4qTRVTTQQK4c5ZYdgw4OZz,The Radio Dept.,Radio,Running Out Of Love,http://www.spotifynewmusic.com/covers/14494.jpg
+spotify:album:2XBnxKeRZi76u2iyGcMych,Major Lazer,,74.Peace Is The Mission,http://hitparade.ch/cdi/major_lazer-peace_is_the_mission_a.jpg
+spotify:album:5Jj66Lj2572bbApt7VjGeV,FaltyDL,,Heaven Is For Quitters,http://www.spotifynewmusic.com/covers/14530.jpg
+spotify:album:2T64N96AVfsrRFJCUXQEoZ,Bonobo,Bonobo,Migration,https://i.scdn.co/image/9774e49dffe7c3fd167a20037b111e9a073f5f6c
+

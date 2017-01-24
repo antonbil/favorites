@@ -1,58 +1,38 @@
-spotify:album:1ZF7MufHrt6TBfNrtOZmZc,Telemann,,Glueck Is My Future E.P.,https://i.scdn.co/image/90367dd196f3871752b2ce63b18d1c636699b5b7
-spotify:album:5PIpamvH4amBLBdCix1IyG,How To Dress Well,,Care,https://i.scdn.co/image/38b6ea01eb644f8f3f927d75a1c133190909bfae
 spotify:album:5PIpamvH4amBLBdCix1IyG,How To Dress Well,,Care,https://i.scdn.co/image/38b6ea01eb644f8f3f927d75a1c133190909bfae
 spotify:album:1pQxvRJV11lBX54KmuVIq0,Anouk,,Greatest Hits,https://i.scdn.co/image/19c4c03fcb436bd498239fe8eea91ee18c09b603
 spotify:album:3KdpDb5c1hNkayv6KeF54a,Argent,,Nexus,https://i.scdn.co/image/0b1395127cb574e15c5100c269369ea25c69dece
 spotify:album:1KgiVPDV0v0pn1MslihNHB,BadBadNotGood,,IV,https://i.scdn.co/image/de9b49c6f6097171d9bbf541a7bb87ddb5934756
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
 spotify:album:1PgfRdl3lPyACfUGH4pquG,Bon Iver,Iver,22 A Million,https://i.scdn.co/image/3a3fc1256e0b30ebedd13dee5d3071744163cd63
+spotify:album:22ftrO9lNJXJIQbS1KH7Rs,C Duncan,Duncan,The Midnight Sun,https://i.scdn.co/image/91bfdf211157473aad7500fbf3625b1b5756a3c9
+spotify:album:02qKdyeCFJQT5pgThu3psz,Jamie Lidell,Lidell,Building a Beginning,https://i.scdn.co/image/01d7409c6d7b1cfbc2a27a96e80859e3cf91a303
 
-
-spotify:album:7DGzeERtReCHCG0k9mABXv,Nick Cave & The Bad Seeds,01,Push the Sky Away,https://i.scdn.co/image/b4602813a3c682c0c4e158f38c150fee9e05bc3a
-spotify:album:3Y2bjF2Jwocc0USbu08Y2I,Arcade Fire,02,Reflektor,https://i.scdn.co/image/bec3b808a2e4b0ea4700d3a7e6a68681e1cdafb8
-spotify:album:6645HGh7ZOZSUTpqW9iYLR,Arctic Monkeys,03,AM,https://i.scdn.co/image/8f10ce83d93c11d4db4f7fc15e2c86d768223001
-spotify:album:0XTAmejG8F97wF5MWoVbaY,Kanye West,04,Yeezus,https://i.scdn.co/image/3d003b7bb9e93a101d412f475fe2d1e7df62b3c7
-spotify:album:4m2880jivSbbyEGAKfITCa,Daft Punk,05,Random Access Memories,https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4
-spotify:album:4xGFLO5gvhNRHodroFsOfm,Jacco Gardner,06,Cabinet of Curiosities,https://i.scdn.co/image/ba9fc57d5bb4e383f18b40f5e7e84c449030b978
-spotify:album:1aYXn1WnQWLTmOpQtKVeYJ,Parquet Courts,08,Light Up Gold,https://i.scdn.co/image/f5a5c4ab679fabedaa124aab941b2c5a843eb3ac
-spotify:album:2imxOfDIDk2voAYCZP88u2,Kurt Vile,09,Wakin On A Pretty Daze,https://i.scdn.co/image/716dd2620539069811f0f75ff25a0ef0fdea96dc
-spotify:album:2JhR4tjuc3MIKa8v2JaKze,National,10,Trouble Will Find Me,https://i.scdn.co/image/f76c15133710b5ef4ccf37039c57382ced66c262
-spotify:album:1ZFGRj11NnZHos8DUbbpF1,Disclosure,11,Settle,https://i.scdn.co/image/9bd383fc52c2a2da7bedbcce8e3b78f87e959489
-spotify:album:2Qi2SySN2ePZwMLDSv9Krn,Vampire Weekend,12,Modern Vampires of the City,https://i.scdn.co/image/84883a8fc5dc7f4019838562a5e258019c661300
-spotify:album:41C5iULlHU9sMYiekI75Pn,Unknown Mortal Orchestra,13,II,https://i.scdn.co/image/e92c2e3cda274fec16a99e277ea32e617fe4125a
-spotify:album:6ljTPjGb8hwaRT6HPJYbfb,James Holden,14,The Inheritors,https://i.scdn.co/image/4c8f98aec55989d1eeb8aaa9a2834c1b8bde6bf8
-spotify:album:3WFNF1Hp0UBPswcawDHpUS,Moderat,15,II,https://i.scdn.co/image/8425ccb782915a50a65bff80568e01ec9f52f906
-spotify:album:0PZ13vrab3uBrITlFlgsiL,Franz Ferdinand,16,Right Thoughts  Right Words  Right Action,https://i.scdn.co/image/cd1e28cbd81805893eba22e7b2d0c935158ebf41
-spotify:album:35He6RuwS8C2KjG067Gobl,Laura Marling,17,Once I Was An Eagle,https://i.scdn.co/image/6489da12ab168bcbac08d9d5c246fe5eadd1c75f
-spotify:album:2spxrQq50aGqf9Barvc8fg,Mikal Cronin,18,MCII,https://i.scdn.co/image/f7c1bb49f61524fc2bdbe066d8adbb3f0f915ba2
-spotify:album:159ORixBSSemxiualv1Woj,Boards of Canada,20,Tomorrow's Harvest,https://i.scdn.co/image/9051648431a1b90c5b9a1e0c1e3d67079c57dc3b
-spotify:album:6k3vC8nep1BfqAIJ81L6OL,alt,01,J,https://i.scdn.co/image/a1dac609d1b8b3a6e415fffcdb53dc6d85393254
-spotify:album:3cO5UOcJuIwo8tSCsBUPDJ,Frank Ocean,02,channel ORANGE,https://i.scdn.co/image/69c35ae0a3647b0df47fccd87f62271b74d99b04
-spotify:album:2rtoukh5lxIrYBtcvOJz6Z,Cloud Nothings,03,Attack on Memory,https://i.scdn.co/image/90fbf6657838991e7a438add560e4fac80bd68a8
-spotify:album:6eSJ0lu0uwtiqXkP7Qrrno,Jack White,04,Blunderbuss,https://i.scdn.co/image/ff708191abbd76be57aab49080a2870a27d162df
-spotify:album:2cRMVS71c49Pf5SnIlJX3U,xx,05,Coexist,https://i.scdn.co/image/5f014ce1510763727315cf01b2c829612e45f5bb
-spotify:album:3pqPOPqLgIwLaE4ZuVhYlg,Django Django,06,Django Django,https://i.scdn.co/image/c562d61579557d5b49b8b4b59d773d1e3a0418aa
-spotify:album:76vY9yohh4kVwSKkyKbyEQ,Tame Impala,07,Lonerism,https://i.scdn.co/image/9bfbbd99eb1d9ee416cdaa5eb6af590aa89630d7
-spotify:album:6EoJL3ty0FyE7XmLpAX2sj,Alabama Shakes,08,Boys & Girls,https://i.scdn.co/image/8608917000ee2db96a1c905e6167cb180ab8fabf
-spotify:album:0TzMVAiOsVJLgbS8oknGoh,Blaudzun,09,Heavy Flowers,https://i.scdn.co/image/3dc8c2d9d1542f96c71b47e9eb3a14772363b516
-spotify:album:57LAEzKL94ZHwbIkUWYCDY,Grizzly Bear,10,Shields,https://i.scdn.co/image/3eafb32f5d47855465b5350c6d42e5815bc85f2f
-spotify:album:5D6PdcR7qTaH6iu6WZlTOP,Metz,11,METZ,https://i.scdn.co/image/583cc45f282b769822f140ea097868d19eac384a
-spotify:album:5ECUvxKHuTeoJ6WDuVtTKL,Moss,12,Ornaments,https://i.scdn.co/image/3611517a2d95d383fe676e152cc5aa19c2f719c4
-spotify:album:6hhZO1fT3GcTlajiVD7vLg,Chromatics,13,Kill For Love,https://i.scdn.co/image/35f098ea1873a860edb647e1032293b711270b75
-spotify:album:4asvshPH5nL0mjjMCE9mzi,Jake Bugg,14,Jake Bugg,https://i.scdn.co/image/7ad24557c630f1db49e5366d2451901a3f12cd93
-spotify:album:68pikiNcGlWj3XFirs5O2R,Beach House,15,Bloom,https://i.scdn.co/image/b1878023a8d25ebee4199ab45d85937168838387
-spotify:album:6Z3MfMebUucj95zrHMrbyV,First Aid Kit,16,The Lion's Roar,https://i.scdn.co/image/1a576cd2d69b75870b65b3e6049a50269b65ead3
-spotify:album:79VDAdjzMMGoftIbw5feYN,Michael Kiwanuka,18,Home Again,https://i.scdn.co/image/a308c54f1cb6365384af6a990dd90eb94a7712b9
-spotify:album:1R6RnfQpSBtMxuBwwjGxzR,Vaccines,19,Come Of Age,https://i.scdn.co/image/7c4ff921111162bcc0199656f3793c8d2393c56e
-spotify:album:0Oq3mWfexhsjUh0aNNBB5u,Kendrick Lamar,20,good kid  m.A.A.d city,https://i.scdn.co/image/90f78ee300baaf9b54a84816c4266e78b99b95b5
-spotify:album:2HhSjSa5X3TQSIkS4CpFyu,Dr. John,21,Locked Down,https://i.scdn.co/image/dd06ff6ac9f07170ed15227a095e30a636dbbd74
-spotify:album:3XgVl7O0ddImgVBtlEPdDw,Allah,22,Las,https://i.scdn.co/image/3a0fab4b3de9fe74e04ebb3ad882893019c91816
-spotify:album:08oLKFGzOU56F72rh3qssl,Case Mayfield,23,The Many Colored Beast,https://i.scdn.co/image/1b13e29c7d118c0d30440fed19c355313af5773c
-spotify:album:6cl6u3OMuyObk20qBb1jbx,Swans,24,The Seer,https://i.scdn.co/image/a962a7ba797eca7d2e86ab73641fb716d6f9d66b
-spotify:album:2JTU8HtBc9nEt0PaZzbSMx,Wild Nothing,25,Nocturne,https://i.scdn.co/image/5a35bb759d2654944f615c9ddbb86d9af46b22e8
-spotify:album:1kl5vXLLEUzfw5njcaCXw5,Bill Fay,26,Life Is People,https://i.scdn.co/image/da707a93ef54d8b48419e18292cabd709eab034e
-spotify:album:0waLDJlCfXkXIwFGdBZ6UK,Leonard Cohen,27,Old Ideas,https://i.scdn.co/image/157608e6f85f23b1b3702c2f3bf2b9f3d3422df9
-spotify:album:1PQDjdBpHPikAodJqjzm6a,Death Grips,28,The Money Store,https://i.scdn.co/image/9f6b1c90f96801bd7f8fa04c44c5a8b886efc85d
-spotify:album:0SvgSZT9yW6ocN88GtZwVG,Mark Lanegan,29,Blues Funeral,https://i.scdn.co/image/68c51c9b51d0f1c8867617464013055e12eaa336
-spotify:album:3LnS0XKSzd2TFoagESGUw3,Bob Dylan,30,Tempest,https://i.scdn.co/image/eeb7dc266b12e6016763e11915806aa4f369adab
-spotify:album:2f2NEtvt132ETAdS7Xqudk,Anathema,31,Weather Systems,https://i.scdn.co/image/5ce09b7fca2c0415556e8b13a0cd5b8796719d62
+spotify:album:0glw7pSiuHzN5ODZj8oLKo,Katie Gately,Gately,Color,http://www.spotifynewmusic.com/covers/14459.jpg
+spotify:album:4c24ZGcTnmjyLbQHxlu0lO,Moby & the Void Pacific ...,,These Systems Are Failing,http://www.spotifynewmusic.com/covers/14452.jpg
+spotify:album:0l5czlo6eYAxcpw95BtPVZ,The Orb,Orb,COW / Chill Out  World!,http://www.spotifynewmusic.com/covers/14453.jpg
+spotify:album:6bxXFdOBED8cMa3mtlVNzu,Dusky,,Outer,http://www.spotifynewmusic.com/covers/14413.jpg
+spotify:album:6PmuEq2op3EMw1ZhCjjucB,Two Door Cinema Club,,Gameshow (Deluxe Edition),http://www.spotifynewmusic.com/covers/14460.jpg
+spotify:album:21UAXVaTaYgCTarAuHPFJo,Van Der Graaf Generator,,Do Not Disturb,http://www.spotifynewmusic.com/covers/14383.jpg
+spotify:album:08ibdX8K0GETv20UEku3sm,Kings of Leon,,Walls,http://www.spotifynewmusic.com/covers/14408.jpg
+spotify:album:2KQCH3weCk4gm5XDnYHaZF,Placebo,,A Place for Us to Dream,http://www.spotifynewmusic.com/covers/14421.jpg
+spotify:album:19E3mLwmj56Mews43zMJqr,Phish,,Big Boat,http://www.spotifynewmusic.com/covers/14419.jpg
+spotify:album:7iOAJaGBmk67o337zaqt0R,Sabrina Carpenter,Carpenter,EVOLution,http://www.spotifynewmusic.com/covers/14483.jpg
+spotify:album:7ijL8KF5a1FTAmXU8X33Y3,JOHNNYSWIM,,Georgica Pond,http://www.spotifynewmusic.com/covers/14481.jpg
+spotify:album:03B7yRw8C4i7Vuxxjy8RJw,JoJo,,Mad Love. (Deluxe),http://www.spotifynewmusic.com/covers/14482.jpg
+spotify:album:4dd5Bj6h0y58Qi0027fJu0,Beth Hart,Hart,Fire On The Floor,http://www.spotifynewmusic.com/covers/14479.jpg
+spotify:album:3NX6AZtgTNY92MmspNQLiu,Jones,,New Skin,http://www.spotifynewmusic.com/covers/14427.jpg
+spotify:album:5gc2S04vG0rEGnTaTwOvus,Francis and the Lights,,Farewell  Starlite!,http://www.spotifynewmusic.com/covers/14420.jpg
+spotify:album:02ryxjBXuwxly7d0aWi5Gk,Black Marble,,It's Immaterial,http://www.spotifynewmusic.com/covers/14457.jpg
+spotify:album:0Cx49JKlgdunkLpj0D1u8Z,Merchandise,,A Corpse Wired For Sound,http://www.spotifynewmusic.com/covers/14334.jpg
+spotify:album:2ceiJap2OkHmYT4CNjHrJz,Flyying Colours,,Mindfullness,http://www.spotifynewmusic.com/covers/14337.jpg
+spotify:album:1I6LfGVtMuEQA7v75Co4E4,Cymbals Eat Guitars,,Pretty Years,http://www.spotifynewmusic.com/covers/14283.jpg
+spotify:album:21KMCJqOy257fMMaBrJL95,The Telescopes,Telescopes,Hidden Fields,http://www.spotifynewmusic.com/covers/12285.jpg
+spotify:album:64VYTykrTBKltig6Li2JLF,Aynsley Lister,Lister,Eyes Wide Open,http://www.spotifynewmusic.com/covers/14438.jpg
+spotify:album:2XYX0ilzQPNZRW427TN3lA,Blaudzun,,Jupiter (Part I),https://i.scdn.co/image/5452b6a75123f3d281685d9d3f4d5c6b3d3d9ae2
+spotify:album:7kunNk4rQrxOtatKGidJO4,Kensington,,Control,https://i.scdn.co/image/6278ccda58d6fe0cd73e9eaf73f7b6e096e422bb
+spotify:album:2PXy9USZAoTSdtrxfkPBnl,The xx,The xx - I See You,I See You,https://i.scdn.co/image/28156022bee5892bc38d1e6eb64eb647b0574998
+spotify:album:2T64N96AVfsrRFJCUXQEoZ,Bonobo,Bonobo - Migration,Migration,https://i.scdn.co/image/9774e49dffe7c3fd167a20037b111e9a073f5f6c
+The Rolling Stones ,,The Rolling Stones - Blue ,,
+spotify:album:43TJjpNBfw0qY6E87VeIxX,The Rolling Stones,Rolling Stones,Blue & Lonesome,https://i.scdn.co/image/4e626ab51384afe8f45476bf9b6be7910c3e3f50
+spotify:user:nederlandse_top_40:playlist:5lH9NjOeJvctAO92ZrKQNB,,Nederlandse Top 40,,
+spotify:user:nederlandse_top_40:playlist:5lH9NjOeJvctAO92ZrKQNB,Nederlandse Top 40,Nederlandse Top 40,Hits,

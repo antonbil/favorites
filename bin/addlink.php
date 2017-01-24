@@ -18,6 +18,12 @@
     </form>
     ';
 }
+function startsWith($haystack, $needle)
+{
+     $length = strlen($needle);
+     return (substr($haystack, 0, $length) === $needle);
+}
+
 $url=$_GET['url'];
 $artist=$_GET['artist'];
 $artist = str_replace(",", " ", $artist);
@@ -29,6 +35,7 @@ $pictureurl=$_GET['pictureurl'];
 if (strlen ($url)==0){
 } else {
     if ((strlen ($artist)==0) ||(strlen ($album)==0) || (strlen ($pictureurl)==0)){
+    if (startswith($url,"spotify:album:")){
     $myurl=str_replace ( "spotify:album:","",$url);
     $spotifyUri='https://api.spotify.com/v1/albums/'.$myurl;
     $response = file_get_contents($spotifyUri);
@@ -41,6 +48,7 @@ if (strlen ($url)==0){
     $nr=0;
     if (count($response->images)>1)$nr=1;
     $pictureurl=$response->images[$nr]->url;
+    }
     $out="\n".$url.",".$artist.",".$artistsort.",".$album.",".$pictureurl;
     echo $out."<br/>";
     file_put_contents('links.txt', $out, FILE_APPEND);

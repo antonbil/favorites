@@ -1,0 +1,13 @@
+
+spotify:album:71N67dfMIkvyikV9ygSOuF,Jeff Beck,Beck,Loud Hailer,http://www.spotifynewmusic.com/covers/13988.jpg
+spotify:album:71kreixSBb0aUsk2gx0lcA,Michael Kiwanuka,Kiwanuka,Love & Hate,http://www.spotifynewmusic.com/covers/13975.jpg
+spotify:album:3QbZAjetNbaT3l3jhlvgSh,Aaron Neville,Neville,Apache,http://www.spotifynewmusic.com/covers/14002.jpg
+spotify:album:2wI0kmG01yTlNIbSBWEmjH,Laurence Jones,Jones,Take Me High,http://www.spotifynewmusic.com/covers/14018.jpg
+spotify:album:6hH6bJSrrYLhkxNMyjMMQg,Joseph,,I'm Alone  No You're Not,http://www.spotifynewmusic.com/covers/14203.jpg
+spotify:album:18BhXTpV4thaiOQDQt7C4w,Dex Romweber,Romweber,Carrboro,http://www.spotifynewmusic.com/covers/14266.jpg
+spotify:album:3zDdCywQr4HZ9gQfhD5Uza,Joanne Shaw Taylor,Taylor,Wild,http://www.spotifynewmusic.com/covers/14390.jpg
+spotify:album:3eGHhpICuytpKNL1CBluOU,Eric Clapton,Clapton,Live in San Diego (with S...,http://www.spotifynewmusic.com/covers/14389.jpg
+spotify:album:2HFzHGB6jiMSRdrODrk83s,D.D Dumbo,Dumbo,Utopia Defeated,http://www.spotifynewmusic.com/covers/14416.jpg
+spotify:album:4ZMjyvBPaTRWgoH2bdwPCy,Seasick Steve,Steve,Keepin' The Horse Between...,http://www.spotifynewmusic.com/covers/14433.jpg
+spotify:album:64VYTykrTBKltig6Li2JLF,Aynsley Lister,Lister,Eyes Wide Open,http://www.spotifynewmusic.com/covers/14438.jpg
+spotify:album:4PsHBA9Sk1kflrUpWnmSSa,Katie Melua,Melua,In Winter,http://www.spotifynewmusic.com/covers/14478.jpg

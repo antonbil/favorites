@@ -1,3 +1,13 @@
 
 
-spotify:album:5uGGOeDoB2jHetZJTbkwcC,Warpaint,,Heads Up,https://i.scdn.co/image/3a2feaadda7402ef1f5bf5d18fff573fe9671920
+spotify:album:15wXcbbfksa0FlJSuidFH1,Odonis Odonis,,Post Plague,http://www.spotifynewmusic.com/covers/13967.jpg
+spotify:album:21KMCJqOy257fMMaBrJL95,The Telescopes,Telescopes,Hidden Fields,http://www.spotifynewmusic.com/covers/12285.jpg
+spotify:album:4SLS8WVOSIZki906tAGEdx,Eros and the Eschaton,,Weight of Matter,http://www.spotifynewmusic.com/covers/14169.jpg
+spotify:album:6iwjaNBxNzW3ylmRRQgIEp,Vinyl Williams,,Brunei,http://www.spotifynewmusic.com/covers/14144.jpg
+spotify:album:4m4lTACLa0szjQRBZplUkd,The Warlocks,Warlocks,Skull Worship,http://www.spotifynewmusic.com/covers/8528.jpg
+spotify:album:1I6LfGVtMuEQA7v75Co4E4,Cymbals Eat Guitars,,Pretty Years,http://www.spotifynewmusic.com/covers/14283.jpg
+spotify:album:5uGGOeDoB2jHetZJTbkwcC,Warpaint,,Heads Up,http://www.spotifynewmusic.com/covers/14324.jpg
+spotify:album:0Cx49JKlgdunkLpj0D1u8Z,Merchandise,,A Corpse Wired For Sound,http://www.spotifynewmusic.com/covers/14334.jpg
+spotify:album:2ceiJap2OkHmYT4CNjHrJz,Flyying Colours,,Mindfullness,http://www.spotifynewmusic.com/covers/14337.jpg
+spotify:album:4qTRVTTQQK4c5ZYdgw4OZz,The Radio Dept.,Radio,Running Out Of Love,http://www.spotifynewmusic.com/covers/14494.jpg
+spotify:album:42GP0afOy16vkhbCC2HG9D,Crocodiles,,Dreamless,http://www.spotifynewmusic.com/covers/14504.jpg

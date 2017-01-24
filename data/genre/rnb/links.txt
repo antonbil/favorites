@@ -17,3 +17,6 @@ spotify:album:3NnAB6jt5B0jjkZAuNddVo,Fantasia,,The Definition Of...,https://i.sc
 spotify:album:4lVR2fg3DAUQpGVJ6DciHW,Ariana Grande,Grande,Dangerous Woman,https://i.scdn.co/image/4b99550818a710cacdab71dc9c5a07aa28eb7ad9
 spotify:album:6ktKxznxtvaTxZB8hna21f,Usher,,Hard II Love,https://i.scdn.co/image/09f9efe2bafe885ec044c8027717498826857db6
 spotify:album:2FXGUAESmG5l9YPrzWPvHI,PARTYNEXTDOOR,,PARTYNEXTDOOR 3 (P3),https://i.scdn.co/image/272376cc5ce2042be360ba3359d2c7983dbb7660
+spotify:album:3Yko2SxDk4hc6fncIBQlcM,Solange,,A Seat at the Table,http://www.spotifynewmusic.com/covers/14402.jpg
+spotify:album:3NX6AZtgTNY92MmspNQLiu,Jones,,New Skin,http://www.spotifynewmusic.com/covers/14427.jpg
+spotify:album:02qKdyeCFJQT5pgThu3psz,Jamie Lidell,Lidell,Building a Beginning,https://i.scdn.co/image/01d7409c6d7b1cfbc2a27a96e80859e3cf91a303

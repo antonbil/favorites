@@ -1,0 +1,31 @@
+
+spotify:album:4NsoEWDTAKeKsYoAmbvoJE,Gruff Rhys,Rhys,Set Fire to the Stars,http://www.spotifynewmusic.com/covers/14403.jpg
+spotify:album:3oFYarjpwnsCNS1Fzcagas,John Prine,Prine,For Better  or Worse,http://www.spotifynewmusic.com/covers/14385.jpg
+spotify:album:4FzGrd7d6vNKBMNNJtri3j,Itasca,,Open to Chance,http://www.spotifynewmusic.com/covers/14382.jpg
+spotify:album:18XEoSRglCwQLGClea3686,Jenny Hval,Hval,Blood Bitch,http://www.spotifynewmusic.com/covers/14360.jpg
+spotify:album:6C0ZhA7FLKwguVU8BWfkeS,Regina Spektor,Spektor,Remember Us to Life,http://www.spotifynewmusic.com/covers/14370.jpg
+spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin' Pools  Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
+spotify:album:0zFnhdX1FnfuExLlbVdnFU,Bruce Springsteen,Springsteen,Chapter and Verse,http://www.spotifynewmusic.com/covers/14338.jpg
+spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,http://www.spotifynewmusic.com/covers/14328.jpg
+spotify:album:2Zg7XfKabtsEDiceVfTVoo,Wymond Miles,Miles,Call by Night,http://www.spotifynewmusic.com/covers/13966.jpg
+spotify:album:71kreixSBb0aUsk2gx0lcA,Michael Kiwanuka,Kiwanuka,Love & Hate,http://www.spotifynewmusic.com/covers/13975.jpg
+spotify:album:518syyOKJtmhFFB3uAYkOx,Julie Byrne,Byrne,Rooms With Walls and Wind...,http://www.spotifynewmusic.com/covers/10995.jpg
+spotify:album:37fjnCqjccq6cTenm3eEOi,DM Stith,Stith,Pigeonheart,http://www.spotifynewmusic.com/covers/14048.jpg
+spotify:album:1LG5QVJNbSVCXYyjuMx39p,Owen,,The King of Whys,http://www.spotifynewmusic.com/covers/14050.jpg
+spotify:album:61WR0KS7E4RJV6JC2TZ8Gk,Lori McKenna,McKenna,The Bird &The Rifle,http://www.spotifynewmusic.com/covers/14063.jpg
+spotify:album:4TiPQDn83d2MLff6se14AE,Cereus Bright,Bright,Excuses,http://www.spotifynewmusic.com/covers/14083.jpg
+spotify:album:1oMFudOxU0ugO1YRPLRXBR,Ingrid Michaelson,Michaelson,It Doesn't Have to Make S...,http://www.spotifynewmusic.com/covers/14194.jpg
+spotify:album:7c0qc4Gv3MI1Ope0sF7d0a,Daniel Lanois,Lanois,Goodbye To Language,http://www.spotifynewmusic.com/covers/14276.jpg
+spotify:album:4cQroVXGDa7ikTp8l5ZJ64,Gavin DeGraw,DeGraw,Something Worth Saving,http://www.spotifynewmusic.com/covers/14269.jpg
+spotify:album:4ZMjyvBPaTRWgoH2bdwPCy,Seasick Steve,Steve,Keepin' The Horse Between...,http://www.spotifynewmusic.com/covers/14433.jpg
+spotify:album:4o0kSCMAKIHCOOsxYb5KuA,Luke Haines,Haines,Smash the System,http://www.spotifynewmusic.com/covers/14426.jpg
+spotify:album:73PG0OEZXOvaqggh3RjOZC,Colbie Caillat,Caillat,Malibu Sessions,http://www.spotifynewmusic.com/covers/14441.jpg
+spotify:album:1SpttuqXRFeIyiEGHER2l7,Melissa Etheridge,Etheridge,MEmphis Rock And Soul,http://www.spotifynewmusic.com/covers/14440.jpg
+spotify:album:33YUMfVsFhIUF7gnNYy0EP,Todd Snider,Snider,Eastside Bulldog,http://www.spotifynewmusic.com/covers/14442.jpg
+spotify:album:3jTTLPuVcL6J9pgujnU1lS,Agnes Obel,Obel,Citizen Of Glass,https://i.scdn.co/image/733fb93265888085552a314173a289cb732b3954
+spotify:album:28vCM0a4MYPwcTervwP7Ia,John K. Samson,Samson,Winter Wheat,http://www.spotifynewmusic.com/covers/14522.jpg
+spotify:album:3jeTB3j3QmUs8SPIVleHtU,Leonard Cohen,Cohen,You Want It Darker,http://www.spotifynewmusic.com/covers/14497.jpg
+spotify:album:3jTTLPuVcL6J9pgujnU1lS,Agnes Obel,Obel,Citizen Of Glass,http://www.spotifynewmusic.com/covers/14506.jpg
+spotify:album:3c9H5YIsxndIehCdZcwdtW,Holy Sons,,In The Garden,http://www.spotifynewmusic.com/covers/14505.jpg
+spotify:album:0efTx5J9rBUbXiQ7O8Hyls,Norah Jones,Jones,Day Breaks,http://www.spotifynewmusic.com/covers/14431.jpg
+spotify:album:67hzZ19BcqT086ahgI9DIB,Conor Oberst,Oberst,Ruminations,http://www.spotifynewmusic.com/covers/14454.jpg

@@ -1,2 +1,30 @@
 spotify:album:76pKA8EfFid33dDdWZMbot,Tangarine,,There and Back,https://i.scdn.co/image/72b3e36d9bd9bbc1cb3745720bfeb83a193fcfa3
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
+spotify:album:22mCXp8vSCbXAlsWfQgDUs,Bastard Mountain,,Farewell  Bastard Mountai...,http://www.spotifynewmusic.com/covers/9517.jpg
+spotify:album:518syyOKJtmhFFB3uAYkOx,Julie Byrne,Byrne,Rooms With Walls and Wind...,http://www.spotifynewmusic.com/covers/10995.jpg
+spotify:album:6NYk8LDHcbTVidKJlkw0hk,The Amazing,Amazing,Ambulance,http://www.spotifynewmusic.com/covers/14008.jpg
+spotify:album:7Hg1n5xHFD2ye1ooJORHM9,Rob Lynch,Lynch,Baby  I'm a Runaway,http://www.spotifynewmusic.com/covers/14011.jpg
+spotify:album:0zdZQref2nOAo3CTmgBwyW,Bear's Den,,Red Earth & Pouring Rain,http://www.spotifynewmusic.com/covers/14012.jpg
+spotify:album:4kIeY5O7bQBaP4ChUvZqAh,Blind Pilot,,And Then Like Lions,http://www.spotifynewmusic.com/covers/14122.jpg
+spotify:album:4eMNnpc8IgM9wVHZyQhGvF,Pascal Pinon,Pinon,Sundur,http://www.spotifynewmusic.com/covers/14135.jpg
+spotify:album:5osTMCb85ra91MWDGMTlYv,Lisa Hannigan,Hannigan,At Swim,http://www.spotifynewmusic.com/covers/14139.jpg
+spotify:album:6pzoDMaxrkGRsjoMKey5x8,Ryley Walker,Walker,Golden Sings That Have Be...,http://www.spotifynewmusic.com/covers/14127.jpg
+spotify:album:2PaNkZV2WVwOMoRWR7V9cS,Tall Heights,,Neptune,http://www.spotifynewmusic.com/covers/14164.jpg
+spotify:album:5M8xQaQZuW2LZGVXZ3mlKN,Angel Olsen,Olsen,MY WOMAN,http://www.spotifynewmusic.com/covers/14187.jpg
+spotify:album:2tRhf3NsQijfzhYyiY4IkE,Okkervil River,,Away,http://www.spotifynewmusic.com/covers/14243.jpg
+spotify:album:1xDJAAj8t2e3t4MCGm84lI,Matt Berry,Berry,The Small Hours,http://www.spotifynewmusic.com/covers/14281.jpg
+spotify:album:4R2s4yGFFJ3l6nUD47EbK3,The Handsome Family,Handsome,Unseen,http://www.spotifynewmusic.com/covers/14290.jpg
+spotify:album:3XWRH0Nl6XOEDcbmCV5jc3,Dawes,,We're All Gonna Die,http://www.spotifynewmusic.com/covers/14305.jpg
+spotify:album:6e5Hr71kvlsrTaNoiuqWu4,Emma Ruth Rundle,Rundle,Marked for Death,http://www.spotifynewmusic.com/covers/14401.jpg
+spotify:album:5XhEBaAy3yepqNIO9pqZcd,Julia Jacklin,Jacklin,Don't Let the Kids Win,http://www.spotifynewmusic.com/covers/14411.jpg
+spotify:album:2dBOkshfIym2yZmPZIYNE2,C Duncan,Duncan,The Midnight Sun,http://www.spotifynewmusic.com/covers/14428.jpg
+spotify:album:4rEEkztpEU1GBmy5uBYHUS,Hiss Golden Messenger,,Heart Like A Levee,http://www.spotifynewmusic.com/covers/14429.jpg
+spotify:album:4ZMjyvBPaTRWgoH2bdwPCy,Seasick Steve,Steve,Keepin' The Horse Between...,http://www.spotifynewmusic.com/covers/14433.jpg
+spotify:album:1SpttuqXRFeIyiEGHER2l7,Melissa Etheridge,Etheridge,MEmphis Rock And Soul,http://www.spotifynewmusic.com/covers/14440.jpg
+spotify:album:33YUMfVsFhIUF7gnNYy0EP,Todd Snider,Snider,Eastside Bulldog,http://www.spotifynewmusic.com/covers/14442.jpg
+spotify:album:1Vkw9yFK2kLctNhIkpKHfr,Xylouris White,White,Black Peak,http://www.spotifynewmusic.com/covers/14445.jpg
+spotify:album:3c9H5YIsxndIehCdZcwdtW,Holy Sons,,In The Garden,http://www.spotifynewmusic.com/covers/14505.jpg
+spotify:album:3jTTLPuVcL6J9pgujnU1lS,Agnes Obel,Obel,Citizen Of Glass,http://www.spotifynewmusic.com/covers/14506.jpg
+spotify:album:3jeTB3j3QmUs8SPIVleHtU,Leonard Cohen,Cohen,You Want It Darker,http://www.spotifynewmusic.com/covers/14497.jpg
+spotify:album:28vCM0a4MYPwcTervwP7Ia,John K. Samson,Samson,Winter Wheat,http://www.spotifynewmusic.com/covers/14522.jpg
+spotify:album:5bPH5FC8gRqCsVSgoUm5lD,Boudewijn de Groot,,72.Collected 1964,http://hitparade.ch/cdi/boudewijn_de_groot-collected_1964-2016_a.jpg

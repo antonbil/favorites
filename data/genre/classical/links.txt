@@ -3,3 +3,7 @@ spotify:album:1u7W7F5piI6yVdpea8nLAI,C.P.E Bach,Bach CPE,Chamber Music for Clari
 spotify:album:0KnrvfmcbQMmXeXgwwMY4W,C.P.E Bach,Bach CPE,Cello Concertos
 
 spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern,https://i.scdn.co/image/63ae7c6a475507b7152403ba9e4fbb40b2eea639
+spotify:album:600RMfikMLbkoZIgS0MqiL,Ludovico Einaudi,Einaudi,Einaudi: In a time lapse,https://i.scdn.co/image/67b1e8255ff1f330273dba60bd7a19633b6f6fa1
+spotify:album:05N5FWRDDTr9SmwVlGBNzT,Ludovico Einaudi,Einaudi,Elements,https://i.scdn.co/image/52ac4e5b1b046bb404a0a932aadf7cd845c9c06f
+spotify:album:54S4fuyWuPG2mZQfssJbH5,Ludovico Einaudi,Einaudi,Spheres,https://i.scdn.co/image/fa66a51943784abfc703672ecdf57f62c8570d8e
+spotify:album:3uBOmT0tnbFyLB8X6hW8UN,Frédéric Chopin,Chopin,Frédéric ,Chopin: Piano Concerto No. 1; Ballades,https://i.scdn.co/image/f90b57bd96891f66424c70a41a56c34a470282b2

@@ -1,6 +1,14 @@
-spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin Pools Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
-spotify:album:0DRzGMRM012TpkZYfJqyhm,The Devil Makes Three,Devil,Redemption & Ruin,http://www.spotifynewmusic.com/covers/14317.jpg
-spotify:album:0L29DnqfhGMnX6UptHQZRz,Amanda Shires,Shires,My Piece of Land,http://www.spotifynewmusic.com/covers/14306.jpg
-spotify:album:4R2s4yGFFJ3l6nUD47EbK3,The Handsome Family,Handsome,Unseen,http://www.spotifynewmusic.com/covers/14290.jpg
 spotify:album:61WR0KS7E4RJV6JC2TZ8Gk,Lori McKenna,McKenna,The Bird &The Rifle,http://www.spotifynewmusic.com/covers/14063.jpg
+spotify:album:0L29DnqfhGMnX6UptHQZRz,Amanda Shires,Shires,My Piece of Land,http://www.spotifynewmusic.com/covers/14306.jpg
+spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin' Pools  Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
+
+spotify:album:4R2s4yGFFJ3l6nUD47EbK3,The Handsome Family,Handsome,Unseen,http://www.spotifynewmusic.com/covers/14290.jpg
 spotify:album:1He4w94SRHs7T67BkWNO7k,Chatham County Line,,Autumn,http://www.spotifynewmusic.com/covers/14236.jpg
+spotify:album:0DRzGMRM012TpkZYfJqyhm,The Devil Makes Three,Devil,Redemption & Ruin,http://www.spotifynewmusic.com/covers/14317.jpg
+spotify:album:3oFYarjpwnsCNS1Fzcagas,John Prine,Prine,For Better  or Worse,http://www.spotifynewmusic.com/covers/14385.jpg
+spotify:album:7zbCgH5GJiEz29ZBzptDmL,Willie Nelson,Nelson,For the Good Times: A Tri...,http://www.spotifynewmusic.com/covers/14315.jpg
+spotify:album:4rEEkztpEU1GBmy5uBYHUS,Hiss Golden Messenger,,Heart Like A Levee,http://www.spotifynewmusic.com/covers/14429.jpg
+spotify:album:33YUMfVsFhIUF7gnNYy0EP,Todd Snider,Snider,Eastside Bulldog,http://www.spotifynewmusic.com/covers/14442.jpg
+spotify:album:3UJXcmx1XSLeimF0dwVsbg,Brent Cobb,Cobb,Shine On Rainy Day,http://www.spotifynewmusic.com/covers/14447.jpg
+spotify:album:20Kfu8nG8cbCsxSexSFfbV,Neil Young,Young,neil,Peace Trail,https://i.scdn.co/image/e8f5d3ac9a350bddc4d6ea416e08a09429160699
+spotify:album:20Kfu8nG8cbCsxSexSFfbV,Neil Young,Neil Young - Peace Trail,Peace Trail,https://i.scdn.co/image/e8f5d3ac9a350bddc4d6ea416e08a09429160699

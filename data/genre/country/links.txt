@@ -1,0 +1,25 @@
+
+spotify:album:7psmKW1MWX9PaMCEjpepB5,David Nail,Nail,Fighter,http://www.spotifynewmusic.com/covers/14001.jpg
+spotify:album:5gsWgFeHRxRkIXGXWPiOIW,Jake Owen,Owen,American Love,http://www.spotifynewmusic.com/covers/14070.jpg
+spotify:album:61WR0KS7E4RJV6JC2TZ8Gk,Lori McKenna,McKenna,The Bird &The Rifle,http://www.spotifynewmusic.com/covers/14063.jpg
+spotify:album:5GO3S7ten6QLA2dt8iFhdZ,Justin Moore,Moore,Kinda Don't Care,http://www.spotifynewmusic.com/covers/14121.jpg
+spotify:album:7JyOztv77EGXQ3RUJTSB7J,Lydia Loveless,Loveless,Real,http://www.spotifynewmusic.com/covers/14126.jpg
+spotify:album:0Qk5ItMuEF2zYoHN8J1sKT,Dolly Parton,Parton,Pure & Simple,http://www.spotifynewmusic.com/covers/14152.jpg
+spotify:album:13Qj9WO3Udtb1cHO0C55gE,Ward Thomas,Thomas,Cartwheels,http://www.spotifynewmusic.com/covers/14222.jpg
+spotify:album:1He4w94SRHs7T67BkWNO7k,Chatham County Line,,Autumn,http://www.spotifynewmusic.com/covers/14236.jpg
+spotify:album:44xqMKaQFsn8OseYRi62as,Whiskey Myers,Myers,Mud,http://www.spotifynewmusic.com/covers/14260.jpg
+spotify:album:7zZQIflmcYePRyXPYkyZWa,Chely Wright,Wright,I Am the Rain,http://www.spotifynewmusic.com/covers/14272.jpg
+spotify:album:5yCGZN5V9tcmmGrh0G9ThO,Florida Georgia Line,,Dig Your Roots,http://www.spotifynewmusic.com/covers/14193.jpg
+spotify:album:4R2s4yGFFJ3l6nUD47EbK3,The Handsome Family,Handsome,Unseen,http://www.spotifynewmusic.com/covers/14290.jpg
+spotify:album:0L29DnqfhGMnX6UptHQZRz,Amanda Shires,Shires,My Piece of Land,http://www.spotifynewmusic.com/covers/14306.jpg
+spotify:album:0DRzGMRM012TpkZYfJqyhm,The Devil Makes Three,DevilMakes,Redemption & Ruin,http://www.spotifynewmusic.com/covers/14317.jpg
+spotify:album:0CSppBh5lqrGiFew3S4HfX,Aaron Lewis,Lewis,Sinner,http://www.spotifynewmusic.com/covers/14313.jpg
+spotify:album:7zbCgH5GJiEz29ZBzptDmL,Willie Nelson,Nelson,For the Good Times: A Tri...,http://www.spotifynewmusic.com/covers/14315.jpg
+spotify:album:5IdmVY3e9XUFg7CVrmne84,Dwight Yoakam,Yoakam,Swimmin' Pools  Movie Sta...,http://www.spotifynewmusic.com/covers/14349.jpg
+spotify:album:3oFYarjpwnsCNS1Fzcagas,John Prine,Prine,For Better  or Worse,http://www.spotifynewmusic.com/covers/14385.jpg
+spotify:album:0zEPrwKUYR3CKGrQd85Gtq,The Shires,Shires,My Universe,http://www.spotifynewmusic.com/covers/14394.jpg
+spotify:album:6yEC1IAOVfiHzLQQ6oh07f,Shovels & Rope,,Little Seeds,http://www.spotifynewmusic.com/covers/14430.jpg
+spotify:album:33YUMfVsFhIUF7gnNYy0EP,Todd Snider,Snider,Eastside Bulldog,http://www.spotifynewmusic.com/covers/14442.jpg
+spotify:album:3UJXcmx1XSLeimF0dwVsbg,Brent Cobb,Cobb,Shine On Rainy Day,http://www.spotifynewmusic.com/covers/14447.jpg
+spotify:album:4eu52uZltxOTS0ec73kDpu,Mo Pitney,Pitney,Behind This Guitar,http://www.spotifynewmusic.com/covers/14450.jpg
+spotify:album:4eu52uZltxOTS0ec73kDpu,Mo Pitney,Pitney,Behind This Guitar,http://www.spotifynewmusic.com/covers/14450.jpg

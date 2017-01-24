@@ -1,9 +1,7 @@
 spotify:album:6a8TyTnFnpvaanbZfR7tEL,Klangstof,,Close Eyes to Exit,https://i.scdn.co/image/28f1c59a0cb373a40dfa45e04749302ba2a669b9
-spotify:album:5KYROC2ykVY5SkYX88Kfdy,Jherek Bischoff,Bischoff,Cistern,https://i.scdn.co/image/63ae7c6a475507b7152403ba9e4fbb40b2eea639
 spotify:album:4B1W5FeDz8Z1jsYAZV4MdU,Devendra Banhart,Banhart,Ape in Pink Marble,https://i.scdn.co/image/da2cda26ddff3288f2a7832ac6660658a88a88cd
 spotify:album:34xaLN7rDecGEK5UGIVbeJ,Nick Cave & The Bad Seeds,Cave,Skeleton Tree,https://i.scdn.co/image/ce293cb274c00d58e7f27fbe05040afc1b91b683
 spotify:album:0Lp952Y2eyNYBJDb2Y8q8B,Adult Jazz,,Earrings Off!,https://i.scdn.co/image/baac56ad0962f53ea303f14a2c4d4a600c47fb7f
-spotify:album:3CH5Y6IJPn5yXsOFjCn4wn,Band Of Skulls,,By Default,https://i.scdn.co/image/2396cc0796b0f96b80d06956d0fd0c1453647db1
 spotify:album:3zkYn6D7BES929rafJfONa,Band of Horses,,Why Are You OK,https://i.scdn.co/image/e8ac1f1991dbd51bf3f80f3fc59e00275a0b4506
 spotify:album:54mV0Ypa77HgHik50iMYJ0,Björk,,Vulnicura Live,https://i.scdn.co/image/6d10162e373b64bae676131f8d2e57fcb27bd024
 spotify:album:7ovy7HEr4QOZMTO1ZYZxrC,Blue October,,Home,https://i.scdn.co/image/3db1df9cc4163b7198fecbde93d6b9cee4534b00
@@ -11,7 +9,6 @@ spotify:album:1a3NdLui7ZgCKlHTCW6U4a,The Boxer Rebellion,Boxer,Ocean by Ocean,ht
 spotify:album:3r9t7McmFb3rmU4P7bp94f,Broods,,Conscious,https://i.scdn.co/image/a35c1ccb1ee737e51a2c8b37a7226a94aad69482
 spotify:album:0czBomMxaMCzanUaFhESOW,Car Seat Headrest,,Teens Of Denial,https://i.scdn.co/image/0283a2a49b88a35fa85675f5ec9af3951f69d7ee
 spotify:album:5QSSu7wLCV35QHLUxJVrmQ,Caveman,,Otero War,https://i.scdn.co/image/35a4fbea18ac4de0173d96bc83cca76d8543a9f7
-spotify:album:4Dd6Bmssrfe3UqdCSAiNvI,Chevelle,,The North Corridor,https://i.scdn.co/image/ce881e709c6a25a0bc9ed50a7018a69937620ac2
 
 spotify:album:6wKBVRWMDpMmz9nYQzq3Za,Cat's Eyes,,Treasure House,https://i.scdn.co/image/e48f262eefe62908dd7176ea2e5f709d71bb0173
 spotify:album:3tepMmhxS4GyvLA9tiRKlo,Biffy Clyro,Clyro,Ellipsis,https://i.scdn.co/image/3ffb72f767806b2e6727c4ad69d71a5d2053c9ca
@@ -19,12 +16,8 @@ spotify:album:2A0JfZETV7wvSzfHuBZXwT,M. Craft,Craft,Blood Moon,https://i.scdn.co
 spotify:album:62SHuVeduDK3ZjZrA5Zau4,Death In Vegas,,Transmission,https://i.scdn.co/image/7d50f68d74b6674cb39d30969fb043e208051eab
 spotify:album:3gtiMZp1HVQsP4kOYyUrZY,Johnny Foreigner,Foreigner,Mono No Aware,https://i.scdn.co/image/f31cdf2b7ed474aa739e7a51d05538a5e900f8b4
 spotify:album:5I5UvR4vszvLlVZcHuvqAQ,Garbage,,Strange Little Birds,https://i.scdn.co/image/971183eb169d160a03a437e3eed1fc17ec6a0dcd
-spotify:album:3YoVKwAtww8cENvhL2IepF,Good Charlotte,,Youth Authority,https://i.scdn.co/image/91c30ef92f0ba4269aa9399f054f196832cbf5cf
-spotify:album:2fQ4DpdPn7KGLokPbOoWJC,Mick Harvey,Harvey,Delirium Tremens,https://i.scdn.co/image/e986f2dc024bf02ca64c4d89c1f2cd86d8356a89
-spotify:album:4TMPUg6ihly3CXKCSWhSSg,Hot Hot Heat,,Hot Hot Heat,https://i.scdn.co/image/35f11c677bcd300e0c8077cc41ad1f7321e040a5
 spotify:album:1X95ORlJq2cMyMzb6WAX5z,Kid Canaveral,,Faulty Inner Dialogue,https://i.scdn.co/image/b114a1e8ae3a5a230cd8527a569993a737be7edb
 spotify:album:7c0qc4Gv3MI1Ope0sF7d0a,Daniel Lanois,Lanois,Goodbye To Language,https://i.scdn.co/image/f5a40c5d7a79c1e08f75ac1dc641df8683da2d9b
-spotify:album:6d56XYMWNXo30Q2YCuUJWr,Mother Feather,,Mother Feather,https://i.scdn.co/image/813eee20a93552ed11fde606157c085648d8be4c
 spotify:album:0bJfmxIm5Ttp7b06ImIVpz,Beth Orton,Orton,Kidsticks,https://i.scdn.co/image/32dbe96952ef6cf957ac11b962a927a90af57e8c
 spotify:album:2kbpNDt8GhFNL8fpC7CShs,Peter Bjorn and John,,Breakin' Point,https://i.scdn.co/image/cabea4a9c6350003aa3fd72e504d8f666638d3ac
 spotify:album:30Y6WmHY2DW5navUdHmObK,Rooney,,Washed Away,https://i.scdn.co/image/51738fda511081e39f3960710a9ddfa9dae8575a
@@ -37,3 +30,20 @@ spotify:album:2s037WsNDbSTIEb7OJjT0a,Wilco,,Schmilco,https://i.scdn.co/image/ae1
 spotify:album:5O1ErvIuqd5REkePSTw20z,Wolf Parade,,Wolf Parade - EP 4,https://i.scdn.co/image/c6ba2760d7c7b1aeb4535fba3c893d4b9e0b69af
 spotify:album:0U5U4AU94YjYY2QoOpmwfN,case/lang/veirs,,case/lang/veirs,https://i.scdn.co/image/3856c2d096ec3163d5d3cf4d62688183b19d6d9c
 spotify:album:6d56XYMWNXo30Q2YCuUJWr,Mother Feather,,Mother Feather,https://i.scdn.co/image/813eee20a93552ed11fde606157c085648d8be4c
+spotify:album:4Dd6Bmssrfe3UqdCSAiNvI,Chevelle,,The North Corridor,http://www.spotifynewmusic.com/covers/13965.jpg
+spotify:album:3YoVKwAtww8cENvhL2IepF,Good Charlotte,,Youth Authority,http://www.spotifynewmusic.com/covers/13995.jpg
+spotify:album:5a3LqvNt2nv1B4aRKXmgOV,Green Day,,Revolution Radio,http://www.spotifynewmusic.com/covers/14410.jpg
+spotify:album:2HFzHGB6jiMSRdrODrk83s,D.D Dumbo,Dumbo,Utopia Defeated,http://www.spotifynewmusic.com/covers/14416.jpg
+spotify:album:2KQCH3weCk4gm5XDnYHaZF,Placebo,,A Place for Us to Dream,http://www.spotifynewmusic.com/covers/14421.jpg
+spotify:album:30SqWqmSU9ww0Btb1j4rpU,OneRepublic,,Oh My My,http://www.spotifynewmusic.com/covers/14422.jpg
+spotify:album:3dM9CsNzXCIf5yPRFwlcvF,Sum 41,,13 Voices,http://www.spotifynewmusic.com/covers/14432.jpg
+spotify:album:6PlIWXWMZvclheZuCTrMxG,Alter Bridge,,The Last Hero,http://www.spotifynewmusic.com/covers/14423.jpg
+spotify:album:5gc2S04vG0rEGnTaTwOvus,Francis and the Lights,,Farewell  Starlite!,http://www.spotifynewmusic.com/covers/14420.jpg
+spotify:album:7qoYSL131j5zm51atBloM7,Feeder,,All Bright Electric (Delu...,http://www.spotifynewmusic.com/covers/14435.jpg
+spotify:album:19E3mLwmj56Mews43zMJqr,Phish,,Big Boat,http://www.spotifynewmusic.com/covers/14419.jpg
+spotify:album:18qQvXxcdHlri0Uxt3oH04,Balance And Composure,,Light We Made,http://www.spotifynewmusic.com/covers/14451.jpg
+spotify:album:5iBKsXXfmyDXp2PJsYvb0Q,The Dean Ween Group,Dean,The Deaner Album,http://www.spotifynewmusic.com/covers/14490.jpg
+spotify:album:3c9H5YIsxndIehCdZcwdtW,Holy Sons,,In The Garden,http://www.spotifynewmusic.com/covers/14505.jpg
+spotify:album:6gmJvo1Dy4v2xSD9i3P3wS,Hooton Tennis Club,,Big Box of Chocolates,http://www.spotifynewmusic.com/covers/14509.jpg
+spotify:album:03hVtUfmQW3fhMbYoliIod,Jimmy Eat World,,Integrity Blues,http://www.spotifynewmusic.com/covers/14514.jpg
+spotify:album:4mgRBnUuUT2YjT8mqcxwcf,Bell X1,,Arms,http://www.spotifynewmusic.com/covers/14486.jpg

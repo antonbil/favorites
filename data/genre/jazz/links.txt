@@ -1,2 +1,12 @@
 
 spotify:album:6IoZzmLWjNLruCmqvlPOPV,BadBadNotGood,,III,https://i.scdn.co/image/77598d2094c8d2385f2b0a15397dfc6309f7acb6
+spotify:album:6stGKf0BqtUJrFv4AHI2oO,Madeleine Peyroux,Peyroux,Secular Hymns,http://www.spotifynewmusic.com/covers/14307.jpg
+spotify:album:7Am439nHyL7iypSjAIzmP3,Blowout,,No Beer  No Dad,http://www.spotifynewmusic.com/covers/14087.jpg
+spotify:album:0Pam9AodsBDZJ3lz3c7XOA,Nels Cline,Cline,Lovers,http://www.spotifynewmusic.com/covers/14085.jpg
+spotify:album:5JqS1J5ECY5HHhgMDPZ7WK,Will Downing,Downing,Black Pearls,http://www.spotifynewmusic.com/covers/13961.jpg
+spotify:album:7rQ8hbxtceitpmqnj63eC3,Warehouse,,Super Low,http://www.spotifynewmusic.com/covers/14363.jpg
+spotify:album:1r9czg0HWsNzJaKhRMkP9u,Robert Glasper Experimen...,Glasper,ArtScience,http://www.spotifynewmusic.com/covers/14322.jpg
+spotify:album:40n6xacx57gwR22g3P5IYd,Oddarrang,,Agartha,http://www.spotifynewmusic.com/covers/14368.jpg
+spotify:album:42k9awXv6CograhAtkDXRA,Rebecca Ferguson,Ferguson,Superwoman,http://www.spotifynewmusic.com/covers/14512.jpg
+spotify:album:0efTx5J9rBUbXiQ7O8Hyls,Norah Jones,Jones,Day Breaks,http://www.spotifynewmusic.com/covers/14431.jpg
+spotify:album:2OXZJLXxM8jrY3gBoVNfmz,Michael Buble,Buble,Nobody But Me (Deluxe Ver...,http://www.spotifynewmusic.com/covers/14511.jpg

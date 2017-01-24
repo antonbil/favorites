@@ -10,3 +10,29 @@ spotify:album:3ZXEJLSFbQ13rhevpc7L0Y,Autechre,,Quaristice,https://i.scdn.co/imag
 spotify:album:5SSf6lNbSoaAUx6PxQVjlP,Harold Budd,Budd,The Pearl,https://i.scdn.co/image/5980c82fd116c8d0308a236b5f5a78ae32667d95
 spotify:album:7b67MKOwyj7mIcEVnoJSOG,Brian Eno,Eno,Discreet Music,https://i.scdn.co/image/c55ac45951f1a7c5d0d9e70251c64ee1a9882dde
 spotify:album:2hvHI1YepnxxbwVqru5VTZ,John Cage,Cage,In a Landscape: Piano Music of John Cage,https://i.scdn.co/image/7afe0facc97edc87be40cf965c410bda27f03504
+spotify:album:5csZqOP7614sWxpmoNStN7,Vangelis,,Rosetta,http://www.spotifynewmusic.com/covers/14384.jpg
+spotify:album:2CtNPJskEyLAiefFAm7hCm,Forma,,Physicalist,http://www.spotifynewmusic.com/covers/14355.jpg
+spotify:album:3bUAyrzzRc9hpexVxybJTe,Biosphere,,Departed Glories,http://www.spotifynewmusic.com/covers/14354.jpg
+spotify:album:0KrM1lyiBjl3U2h1RBYu1B,Ryuichi Sakamoto,Sakamoto,Nagasaki: Memories Of My ...,http://www.spotifynewmusic.com/covers/14326.jpg
+spotify:album:12408Gy1H0wmvaWeY4unxZ,Wrekmeister Harmonies,,Light Falls,http://www.spotifynewmusic.com/covers/14309.jpg
+spotify:album:1so4uecEQlyhPJbQLJ4wFF,Kaitlyn Aurelia Smith,Smith,FRKWYS Vol. 13: Sunergy,http://www.spotifynewmusic.com/covers/14312.jpg
+spotify:album:3CBzP4KtD2O3Sp3b4qc67h,Grumbling Fur,,Furfour,http://www.spotifynewmusic.com/covers/14287.jpg
+spotify:album:0a2yGkTrEviUUZNBolAUXL,Eluvium,,False Readings On,http://www.spotifynewmusic.com/covers/14218.jpg
+spotify:album:3u63zDEJeJaxwSixfMCGRD,The Album Leaf,Album,Between Waves (Deluxe Ver...,http://www.spotifynewmusic.com/covers/14184.jpg
+spotify:album:2jORfIUavWSxhvoZJdDSCP,Peter Broderick,Broderick,Partners,http://www.spotifynewmusic.com/covers/14171.jpg
+spotify:album:4XNBPlokipX0fhwVu8asv8,Marielle V Jakobsons,Jakobsons,Star Core,http://www.spotifynewmusic.com/covers/14142.jpg
+spotify:album:3CkkBXePHxa1oLgQ7KYmgT,Horseback,,Dead Ringers,http://www.spotifynewmusic.com/covers/14123.jpg
+spotify:album:5C404YdrT9TuLToJOPEr6v,Marconi Union,,Ghost Stations,http://www.spotifynewmusic.com/covers/14118.jpg
+spotify:album:02pV9ijaRh6fRoPWFwvkeq,Katie Dey,Dey,Flood Network,http://www.spotifynewmusic.com/covers/14113.jpg
+spotify:album:2YgZa209mQUSDYFSBt8vXI,Rival Consoles,,Night Melody,http://www.spotifynewmusic.com/covers/14101.jpg
+spotify:album:1hlBQ2raS6aGpiW8bMXUyl,Corbu,,Crayon Soul,http://www.spotifynewmusic.com/covers/14089.jpg
+spotify:album:5R7DE49oUMpLHuwsE1BrxB,Nonkeen,,Oddments of the Gamble,http://www.spotifynewmusic.com/covers/13982.jpg
+spotify:album:2cqREanodAOH2YNssUYx0A,Jamie Isaac,Isaac,Couch Baby,http://www.spotifynewmusic.com/covers/13974.jpg
+spotify:album:5ZXRhTGBDIKbs5TfGAF7rp,Eric Copeland,Copeland,Black Bubblegum,http://www.spotifynewmusic.com/covers/13970.jpg
+spotify:album:1pC7hHcaOmrDotqv1ZnuT8,Aphex Twin,,Cheetah EP,http://www.spotifynewmusic.com/covers/13948.jpg
+spotify:album:53Iu1jfkskl7mj58iv5auu,Ian William Craig,Craig,Centres,http://www.spotifynewmusic.com/covers/13964.jpg
+spotify:album:6e5Hr71kvlsrTaNoiuqWu4,Emma Ruth Rundle,Rundle,Marked for Death,http://www.spotifynewmusic.com/covers/14401.jpg
+spotify:album:22ftrO9lNJXJIQbS1KH7Rs,C Duncan,Duncan,The Midnight Sun,https://i.scdn.co/image/91bfdf211157473aad7500fbf3625b1b5756a3c9
+spotify:album:32KRslceFjMxPLqycPIYQ8,Mono,,Requiem for Hell,http://www.spotifynewmusic.com/covers/14458.jpg
+spotify:album:45jpmYgZmfqr6N9fdE6oQo,Alpines,,Another River,http://www.spotifynewmusic.com/covers/14580.jpg
+spotify:album:6Yl8lXTOxnlBxGNac5TiOa,Peter Broderick,Broderick,Grunewald,http://www.spotifynewmusic.com/covers/14694.jpg
